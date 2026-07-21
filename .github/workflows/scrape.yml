@@ -25,9 +25,11 @@ jobs:
           git config user.email "bot@users.noreply.github.com"
           git add dam_state.json dam_colors.json
           git commit -m "Update KSEB dam levels $(date -u)" || echo "No changes"
+          git pull --rebase origin main
           git push
 
   irrigation-dam-scrape:
+    needs: kseb-dam-scrape   # run after kseb job, not in parallel - avoids both pushing to main at once
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -43,4 +45,5 @@ jobs:
           git config user.email "bot@users.noreply.github.com"
           git add irrigation_dam_state.json irrigation_dam_colors.json
           git commit -m "Update irrigation reservoir levels $(date -u)" || echo "No changes"
+          git pull --rebase origin main
           git push
