@@ -1,0 +1,46 @@
+name: Kerala Dam Scrapers
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  kseb-dam-scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements.txt
+      - name: Run KSEB dam scraper
+        run: python dam_scraper.py
+      - name: Commit KSEB dam data
+        run: |
+          git config user.name "mazha-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add dam_state.json dam_colors.json
+          git commit -m "Update KSEB dam levels $(date -u)" || echo "No changes"
+          git push
+
+  irrigation-dam-scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements.txt
+      - name: Run irrigation dam scraper
+        run: python irrigation_dam_scraper.py
+      - name: Commit irrigation dam data
+        run: |
+          git config user.name "mazha-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add irrigation_dam_state.json irrigation_dam_colors.json
+          git commit -m "Update irrigation reservoir levels $(date -u)" || echo "No changes"
+          git push
