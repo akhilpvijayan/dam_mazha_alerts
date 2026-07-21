@@ -1,0 +1,55 @@
+ജലേസചന അണെ(cid:333)(cid:504)കളിെല തൽ(cid:1041)ിതി 21/07/2026 - 11.00 AM (KERALA)
+IRRIGATION RESERVOIRS STATISTICS
+Alert Levels
+പരമാവധി ഇ(cid:689)െ(cid:563) Blu (m e e L t e e v r e ) l Ora ( n m g e e t e L r e ) vel R ( e m d e L t e e v r) el സംഭരണ േശഷി സ ന ംഭ ില രി വ (cid:333) ിൽ െ(cid:724) (cid:503) ന സ ില ംഭ വ ര ിെ ണ ല (cid:709)റ(cid:563)് വി(cid:499)(cid:689)
+നം. അണെ(cid:333)(cid:503)് ജി(cid:919) ജലനിര(cid:724)് ജലനിര(cid:724)് Gross Storage െവ(cid:1099)(cid:563)ിൻെറ ശതമാനം െവ(cid:1099)ം അധിക വിവര(cid:441)ൾ
+No Reservoir District (മീ(cid:1139)ർ) Todays (Million cubic അളവ് Live Storage as Outflow Remarks
+(1) (2) (3) FRL in Mtrs Water Level അലർ(cid:503)് അലർ(cid:503)് അലർ(cid:503)് metre) Today's Storage % of Live (m3/second) (13)
+(4) (m) (cid:731)ഖ(cid:324)ാപി(cid:334) (cid:731)ഖ(cid:324)ാപി(cid:334) (cid:731)ഖ(cid:324)ാപി(cid:334)(cid:689) (MCM) (Million cubic Storage Capacity (12)
+(5) (cid:689) നിര(cid:724)് (cid:689) നിര(cid:724)് നിര(cid:724)് (9) metre) (11)
+(m) (m) (m) (10)
+(6) (7) (8)
+1 Neyyar Thiruvananthapuram 84.75 84.10 83.25 83.75 84.4 97.35 91.71 94% 11.65 4/4 spilway shutters opened @ 5 cm each, Outflow for drinking
+െന(cid:874)ാർ തി(cid:877)വന(cid:663)(cid:709)രം water.
+2 Kallada Kollam 115.82 100.76 113.74 114.81 115.45 504.92 217.60 41% 29.84 Outflow for power generation, URL - 106.68 m
+ക(cid:919)ട െകാ(cid:919)ം
+3 Maniyar (Barrage) Pathanamthitta 34.62 29.26 8.80 7.78 36% _ 5/5 shutters opened @ 450 cm each
+മണിയാർ പ(cid:563)നംതി(cid:503)
+4 Ma മ l ല an (cid:437) ka ര ra ഇ Idu (cid:499) k (cid:333) ki ി 42.00 37.46 40.70 41.00 41.30 37.00 22.04 54% 34.65 4 W / a 6 t e s r p , il O lw ut a f y lo s w h u fo tt r e P r o o w p e e r n e g d e n @ er a 5 t 0 io c n m . each. Outflow for Drinking
+5 Bhoothathankettu (Barrage) Ernakulam 34.95 30.60 169.79 - - 245.00 2/15 shutters opened @ 15 cm each. 1/15 shutters opened @ 200 cm.
+(cid:812)ത(cid:563)ാൻെക(cid:503)് എറണാ(cid:328)ളം
+6 Vazhani Thrissur 62.48 51.07 60.98 61.48 61.88 18.12 5.27 23% 0.00
+വാഴാനി (cid:561)(cid:935)ർ
+7 Chimoni Thrissur 76.40 64.31 74.9 75.4 75.9 151.55 72.36 47% 0.00
+ചി(cid:832)ിനി (cid:561)(cid:935)ർ
+8 Peechi Thrissur 79.25 70.26 78.00 78.30 78.60 94.95 21.02 22% 0.69 Outflow for Drinking Water
+പീ(cid:446)ി (cid:561)(cid:935)ർ
+9 Siruvani (Inter state waters) Palakkad 878.50 869.84 25.6 12.81 31% 0.54
+ശി(cid:877)വാണി പാല(cid:333)ാട്
+10 Kanjirappuzha Palakkad 97.50 93.58 96.50 97.00 97.40 70.83 49.75 70% 0.40
+കാ(cid:496)ിര(cid:725)ഴ പാല(cid:333)ാട്
+11 Meenkara Palakkad 156.36 151.36 154.9 155.36 156.06 11.33 2.58 15% 0.34
+മീ(cid:437)ര പാല(cid:333)ാട്
+12 Walayar Palakkad 203.00 196.25 201.50 202.00 202.30 18.40 5.37 14% 0.00
+വാളയാർ പാല(cid:333)ാട്
+13 Malampuzha Palakkad 115.06 106.09 113.00 114.00 114.45 226.00 65.38 28% 1.24 Outflow for drinking water, URL - 111.89 m
+മല(cid:826)ഴ പാല(cid:333)ാട്
+14 Pothundy Palakkad 108.20 96.41 106.71 107.21 107.59 50.91 16.83 22% 0.32 Outflow for drinking water
+േപാ(cid:564)(cid:535)ി പാല(cid:333)ാട്
+15 Chulliyar Palakkad 154.08 144.25 152.50 153.08 153.70 13.70 2.25 10% 0.00
+(cid:444)(cid:1099)ിയാർ പാല(cid:333)ാട്
+16 Mangalam Palakkad 77.88 75.37 76.00 76.52 77.30 25.49 16.65 65% 0.00
+മംഗലം പാല(cid:333)ാട്
+17 Moolathara (Regulator) Palakkad 184.70 181.00 N/A - - 2.16 1/19 shutter opened @ 15 cm
+(cid:819)ല(cid:563)റ പാല(cid:333)ാട്
+18 K (cid:328) u (cid:1139) tt ി i യ ya ാ d ട i ി േ K ക o ാ z ഴ hi ി k േ o (cid:333) de ാ ട് 44.41 37.10 42.00 42.50 42.70 105.69 58.65 45% 27.35 4 p / o 4 w e s r p i g lw e a n y e r s a h ti u o t n t . ers are fully opened. Outflow for drinking water &
+19 Karapuzha Wayanad 763.00 757.05 761.00 761.50 762.00 76.50 34.60 42% 1.26 3/3 spillway shutter opened @ 10 cm each, Outflow for drinking
+കാരാ(cid:725)ഴ വയനാട് water
+20 Pazhas പ si ഴ ( (cid:958) Ba ി rrage) K ക an (cid:555) nu ർ r 26.52 19.09 49.08 5.80 11% 188.74 1 c 0 m /1 6 e a s c h h u . tters opened @ 50 cm each. 5/16 shutters opened @ 20
+Colour Code
+No Warnings No Alerts നിലവിൽ (cid:818)(cid:689)റിയി(cid:725)കൾ ഇ(cid:919)
+Blue നീല 1st Stage of alert ഒ(cid:689)ാംഘ(cid:503) (cid:818)(cid:689)റിയി(cid:724)്
+Orange ഓറ(cid:485)് 2nd Stage of alert ര(cid:535)ാംഘ(cid:503) (cid:818)(cid:689)റിയി(cid:724)്
+Red (cid:444)വ(cid:724)് 3rd Stage of alert (cid:819)(cid:689)ാംഘ(cid:503) (cid:818)(cid:689)റിയി(cid:724)്
+Yellow മ(cid:496) Dams that currently release controlled amounts of water for irrigation purposes or as a precautionary measure
+ജലേസചന ആവശ(cid:324)(cid:441)ൾ(cid:333)ാേയാ (cid:818)ൻക(cid:877)തലിൻെറ ഭാഗമായിേ(cid:503)ാ നിലവിൽ നിയ(cid:668)ിത അളവിൽ െവ(cid:1099)ം (cid:709)റേ(cid:563)െ(cid:333)ാ(cid:1102)(cid:333)ിവി(cid:499)(cid:689) അണെ(cid:333)(cid:504)കൾ

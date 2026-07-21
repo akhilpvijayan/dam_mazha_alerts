@@ -1,0 +1,77 @@
+േകരള(cid:563)ിെല (cid:731)ധാന അണെ(cid:333)(cid:504)കളിെല (KSEB) ദിവേസന(cid:842)(cid:1099) ജലനിര(cid:724)് സംബ(cid:683)ി(cid:447)(cid:1099) വിവരം
+21/07/2026- 11.00 AM
+Daily Water Levels Details of Major Power Generation Dams (KSEB) - KERALA
+ALERT LEVELS
+ന ഇ ില (cid:689) ന ് ിർ Blue (metre) Orange (metre) (m R e e t d re) സംഭരണ നിലവിൽ നിലവിെല നില റ(cid:563) വിൽ ് (cid:709)
+പരമാവധി ഇ(cid:689)െ(cid:563) സംഭരി(cid:333)െ(cid:724)(cid:503) വി(cid:499)(cid:689)
+(cid:563)ാ(cid:922)(cid:689) േശഷി സംഭരണ
+(cid:363)മ അണെ(cid:333)(cid:503)് ജി(cid:919) ജലനിര(cid:724)് ജലനിര(cid:724)് ജല(cid:563)ിെ(cid:706) െവ(cid:1099)ം അധിക വിവര(cid:441)ൾ
+പരമാവധി അലർ(cid:503)് അലർ(cid:503)് അലർ(cid:503)് Total Live ശതമാനം
+ന(cid:825)ർ Name of the Dam District (മീ(cid:1139)ർ) FRL Today's അളവ് Current Remarks
+ജലനിര(cid:724)് (cid:731)ഖ(cid:324)ാപി(cid:334)(cid:689) (cid:731)ഖ(cid:324)ാപി(cid:334)(cid:689) (cid:731)ഖ(cid:324)ാപി(cid:334)(cid:689) Storage at Percentage
+(1) (2) (3) in metre Water Level Live Storage Spillway (14)
+rule level ജലനിര(cid:724)് ജലനിര(cid:724)് ജലനിര(cid:724)് FRL (MCM) Storage
+(4) (5) (MCM) Release
+(ft/m) (m) (m) (m) (10) (12)
+(11) (cumecs)
+(6) (7) (8) (9)
+(13)
+ക(cid:333)ി (ആനേ(cid:563)ാട്) പ(cid:563)നംതി(cid:503)
+1 981.46 m 954.26 m 975.36 973.36 974.36 974.86 446.51 137.72 30.84% _
+Kakki (Anathode) (Pathanamthitta)
+പ(cid:825) പ(cid:563)നംതി(cid:503)
+2 986.33 m 964.45 m 982.00 983.50 984.50 31.15 0.97 3.11% _
+(Pamba) (Pathanamthitta)
+(cid:819)ഴിയാർ പ(cid:563)നംതി(cid:503)
+3 192.63 m 185.40 m 190.00 1.16 0.32 27.16% _
+(Moozhiyar) (Pathanamthitta)
+ഇ(cid:499)(cid:333)ി ഇ(cid:499)(cid:333)ി
+4 2403.00 ft 2327.72 ft 2377.95 ft 2367.33 2373.33 2374.33 1459.49 415.33 28.46% _
+(Idukki) (Idukki)
+മാ(cid:504)െ(cid:724)(cid:503)ി ഇ(cid:499)(cid:333)ി
+5 1599.59 m 1568.25 m 1596.00 1597.00 1598.00 54.770 2.54 4.64% _ Sluice discharge =0.489 MCM
+(Madupetty) (Idukki)
+ആനയിറ(cid:441)ൽ ഇ(cid:499)(cid:333)ി
+6 1207.02 m 1195.80 m 1205.02 1206.02 1207.02 49.83 11.42 22.92% _ (Sluice gate fully closed @ 4.00 pm on 05.06.26)
+(Anayirankal) (Idukki)
+െപാ(cid:697)ടി ഇ(cid:499)(cid:333)ി
+7 707.75 m 692.20 m 704.5 705.5 706.5 47.4 17.45 36.81% _
+(Ponmudi) (Idukki)
+(cid:328)(cid:535)ള ഇ(cid:499)(cid:333)ി Sluice discharge = 0.00 MCM. All gates are closed
+8 1758.69 m 1748.10 m 1755 1756 1757 7.65 1.94 25.31% _
+(Kundala) (Idukki)
+ക(cid:919)ാർ(cid:328)(cid:503)ി ഇ(cid:499)(cid:333)ി
+9 456.59 m 452.40 m 455 6.43 3.91 60.86% _
+(Kallarkutty) (Idukki)
+ഇര(cid:503)യാർ ഇ(cid:499)(cid:333)ി
+10 754.38 m 747.00 m 748.28 5.29 0.71 13.47% _
+(Erattayar) (Idukki)
+േലാവർ െപരിയാർ ഇ(cid:499)(cid:333)ി
+11 253.00 m 247.70 m 252.00 4.55 2.42 53.12% _
+(Lower Periyar) (Idukki)
+ക(cid:919)ാർ ഇ(cid:499)(cid:333)ി
+12 824.48 m 820.20 m 823.50 0.76 0.19 25.07% _
+(Kallar) (Idukki)
+ഇടമലയാർ എറണാ(cid:328)ളം
+13 169.00 m 143.45 m 161.75 160.00 160.50 161.00 1017.80 375.96 36.94% _
+(Idamalayar) (Ernakulam)
+േഷാളയാർ (cid:561)(cid:935)ർ
+14 2663.00 ft 2614.70 ft 2658.00 2660.00 2661.00 149.09 49.07 32.91% _
+(Sholayar) (Thrissur)
+െപരി(cid:441)ൽ(cid:328)(cid:563)് (cid:561)(cid:935)ർ
+15 423.98 m 416.55 m 421.00 422.00 423.00 30.30 12.20 40.26% _ Spillway gates are kept at crest level, +419.40m
+(Poringalkuthu) (Thrissur)
+(cid:328)(cid:1139)(cid:324)ാടി േകാഴിേ(cid:333)ാട്
+16 758.04 m 749.02 m 755.5 756.5 757.5 33.98 13.87 40.81% _
+(Kuttiyadi) (Kozhikkode)
+ബാണാ(cid:1009)ര സാഗർ വയനാട് Tunnel fully closed on 29.06.'26 at 11.15 am.
+17 775.60 m 762.45 m 773.50 769.50 770.00 770.50 201.00 63.15 31.42% _
+(Banasurasagar) (Wayanad) Tunnel discharge- Nil
+Colour Code
+No Warnings No Alerts നിലവിൽ (cid:818)(cid:689)റിയി(cid:725)കൾ ഇ(cid:919)
+Blue നീല 1st Stage of alert ഒ(cid:689)ാംഘ(cid:503) (cid:818)(cid:689)റിയി(cid:724)്
+Orange ഓറ(cid:485)് 2nd Stage of alert ര(cid:535)ാംഘ(cid:503) (cid:818)(cid:689)റിയി(cid:724)്
+Red (cid:444)വ(cid:724)് 3rd Stage of alert (cid:819)(cid:689)ാംഘ(cid:503) (cid:818)(cid:689)റിയി(cid:724)്
+Dams that currently release controlled amounts of water as precautionary measure
+Yellow മ(cid:496)
+((cid:818)ൻക(cid:877)തലിെ(cid:706) ഭാഗമായി നിലവിൽ നിയ(cid:668)ിത അളവിൽ െവ(cid:1099)ം (cid:709)റേ(cid:563)െ(cid:333)ാ(cid:1102)(cid:333)ി വി(cid:499)(cid:689) അണെ(cid:333)(cid:504)കൾ)

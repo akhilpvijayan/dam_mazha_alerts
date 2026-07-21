@@ -1,0 +1,467 @@
+{
+  "lastUpdate": "21.07.2026",
+  "reservoirs": [
+    {
+      "id": "1",
+      "name": "Neyyar",
+      "officialName": "Neyyar",
+      "district": "Thiruvananthapuram",
+      "FRL": "84.75",
+      "blueLevel": "83.25",
+      "orangeLevel": "83.75",
+      "redLevel": "84.4",
+      "latitude": 8.4029,
+      "longitude": 77.1494,
+      "remarks": "4/4 spilway shutters opened @ 5 cm each, Outflow for drinking water.",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "84.10",
+          "grossStorage": "97.35",
+          "todayStorage": "91.71",
+          "storagePercentage": "94",
+          "outflow": "11.65"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Kallada",
+      "officialName": "Kallada",
+      "district": "Kollam",
+      "FRL": "115.82",
+      "blueLevel": "113.74",
+      "orangeLevel": "114.81",
+      "redLevel": "115.45",
+      "latitude": 9.1319,
+      "longitude": 76.8494,
+      "remarks": "Outflow for power generation, URL - 106.68 m",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "100.76",
+          "grossStorage": "504.92",
+          "todayStorage": "217.60",
+          "storagePercentage": "41",
+          "outflow": "29.84"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Maniyar",
+      "officialName": "Maniyar (Barrage)",
+      "district": "Pathanamthitta",
+      "FRL": "34.62",
+      "blueLevel": "",
+      "orangeLevel": "",
+      "redLevel": "",
+      "latitude": 9.3372,
+      "longitude": 76.9328,
+      "remarks": "5/5 shutters opened @ 450 cm each",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "29.26",
+          "grossStorage": "8.80",
+          "todayStorage": "7.78",
+          "storagePercentage": "36",
+          "outflow": ""
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Malankara",
+      "officialName": "Malankara",
+      "district": "Idukki",
+      "FRL": "42.00",
+      "blueLevel": "40.70",
+      "orangeLevel": "41.00",
+      "redLevel": "41.30",
+      "latitude": 9.7194,
+      "longitude": 76.8756,
+      "remarks": "4 W / a 6 t e s r p , il O lw ut a f y lo s w h u fo tt r e P r o o w p e e r n e g d e n @ er a 5 t 0 io c n m . each. Outflow for Drinking",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "37.46",
+          "grossStorage": "37.00",
+          "todayStorage": "22.04",
+          "storagePercentage": "54",
+          "outflow": "34.65"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Bhoothathankettu",
+      "officialName": "Bhoothathankettu (Barrage)",
+      "district": "Ernakulam",
+      "FRL": "34.95",
+      "blueLevel": "",
+      "orangeLevel": "",
+      "redLevel": "",
+      "latitude": 10.1667,
+      "longitude": 76.5833,
+      "remarks": "2/15 shutters opened @ 15 cm each. 1/15 shutters opened @ 200 cm.",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "30.60",
+          "grossStorage": "169.79",
+          "todayStorage": "",
+          "storagePercentage": "",
+          "outflow": "245.00"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Vazhani",
+      "officialName": "Vazhani",
+      "district": "Thrissur",
+      "FRL": "62.48",
+      "blueLevel": "60.98",
+      "orangeLevel": "61.48",
+      "redLevel": "61.88",
+      "latitude": 10.5833,
+      "longitude": 76.2667,
+      "remarks": "",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "51.07",
+          "grossStorage": "18.12",
+          "todayStorage": "5.27",
+          "storagePercentage": "23",
+          "outflow": "0.00"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Chimoni",
+      "officialName": "Chimoni",
+      "district": "Thrissur",
+      "FRL": "76.40",
+      "blueLevel": "74.9",
+      "orangeLevel": "75.4",
+      "redLevel": "75.9",
+      "latitude": 10.5333,
+      "longitude": 76.4167,
+      "remarks": "",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "64.31",
+          "grossStorage": "151.55",
+          "todayStorage": "72.36",
+          "storagePercentage": "47",
+          "outflow": "0.00"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Peechi",
+      "officialName": "Peechi",
+      "district": "Thrissur",
+      "FRL": "79.25",
+      "blueLevel": "78.00",
+      "orangeLevel": "78.30",
+      "redLevel": "78.60",
+      "latitude": 10.5333,
+      "longitude": 76.3667,
+      "remarks": "Outflow for Drinking Water",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "70.26",
+          "grossStorage": "94.95",
+          "todayStorage": "21.02",
+          "storagePercentage": "22",
+          "outflow": "0.69"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Siruvani",
+      "officialName": "Siruvani (Inter state waters)",
+      "district": "Palakkad",
+      "FRL": "878.50",
+      "blueLevel": "",
+      "orangeLevel": "",
+      "redLevel": "",
+      "latitude": 10.9167,
+      "longitude": 76.6667,
+      "remarks": "",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "869.84",
+          "grossStorage": "25.6",
+          "todayStorage": "12.81",
+          "storagePercentage": "31",
+          "outflow": "0.54"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Kanjirappuzha",
+      "officialName": "Kanjirappuzha",
+      "district": "Palakkad",
+      "FRL": "97.50",
+      "blueLevel": "96.50",
+      "orangeLevel": "97.00",
+      "redLevel": "97.40",
+      "latitude": 10.8333,
+      "longitude": 76.5833,
+      "remarks": "",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "93.58",
+          "grossStorage": "70.83",
+          "todayStorage": "49.75",
+          "storagePercentage": "70",
+          "outflow": "0.40"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Meenkara",
+      "officialName": "Meenkara",
+      "district": "Palakkad",
+      "FRL": "156.36",
+      "blueLevel": "154.9",
+      "orangeLevel": "155.36",
+      "redLevel": "156.06",
+      "latitude": 10.85,
+      "longitude": 76.6833,
+      "remarks": "",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "151.36",
+          "grossStorage": "11.33",
+          "todayStorage": "2.58",
+          "storagePercentage": "15",
+          "outflow": "0.34"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Walayar",
+      "officialName": "Walayar",
+      "district": "Palakkad",
+      "FRL": "203.00",
+      "blueLevel": "201.50",
+      "orangeLevel": "202.00",
+      "redLevel": "202.30",
+      "latitude": 10.85,
+      "longitude": 76.75,
+      "remarks": "",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "196.25",
+          "grossStorage": "18.40",
+          "todayStorage": "5.37",
+          "storagePercentage": "14",
+          "outflow": "0.00"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Malampuzha",
+      "officialName": "Malampuzha",
+      "district": "Palakkad",
+      "FRL": "115.06",
+      "blueLevel": "113.00",
+      "orangeLevel": "114.00",
+      "redLevel": "114.45",
+      "latitude": 10.8283,
+      "longitude": 76.6825,
+      "remarks": "Outflow for drinking water, URL - 111.89 m",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "106.09",
+          "grossStorage": "226.00",
+          "todayStorage": "65.38",
+          "storagePercentage": "28",
+          "outflow": "1.24"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Pothundy",
+      "officialName": "Pothundy",
+      "district": "Palakkad",
+      "FRL": "108.20",
+      "blueLevel": "106.71",
+      "orangeLevel": "107.21",
+      "redLevel": "107.59",
+      "latitude": 10.6833,
+      "longitude": 76.5833,
+      "remarks": "Outflow for drinking water",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "96.41",
+          "grossStorage": "50.91",
+          "todayStorage": "16.83",
+          "storagePercentage": "22",
+          "outflow": "0.32"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Chulliyar",
+      "officialName": "Chulliyar",
+      "district": "Palakkad",
+      "FRL": "154.08",
+      "blueLevel": "152.50",
+      "orangeLevel": "153.08",
+      "redLevel": "153.70",
+      "latitude": 10.7333,
+      "longitude": 76.65,
+      "remarks": "",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "144.25",
+          "grossStorage": "13.70",
+          "todayStorage": "2.25",
+          "storagePercentage": "10",
+          "outflow": "0.00"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Mangalam",
+      "officialName": "Mangalam",
+      "district": "Palakkad",
+      "FRL": "77.88",
+      "blueLevel": "76.00",
+      "orangeLevel": "76.52",
+      "redLevel": "77.30",
+      "latitude": 10.7667,
+      "longitude": 76.55,
+      "remarks": "",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "75.37",
+          "grossStorage": "25.49",
+          "todayStorage": "16.65",
+          "storagePercentage": "65",
+          "outflow": "0.00"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Moolathara",
+      "officialName": "Moolathara (Regulator)",
+      "district": "Palakkad",
+      "FRL": "184.70",
+      "blueLevel": "",
+      "orangeLevel": "",
+      "redLevel": "",
+      "latitude": 10.9667,
+      "longitude": 76.6833,
+      "remarks": "1/19 shutter opened @ 15 cm",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "181.00",
+          "grossStorage": "",
+          "todayStorage": "",
+          "storagePercentage": "",
+          "outflow": "2.16"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Kuttiyadi",
+      "officialName": "Kuttiyadi",
+      "district": "Kozhikode",
+      "FRL": "44.41",
+      "blueLevel": "42.00",
+      "orangeLevel": "42.50",
+      "redLevel": "42.70",
+      "latitude": 11.6167,
+      "longitude": 75.85,
+      "remarks": "4 p / o 4 w e s r p i g lw e a n y e r s a h ti u o t n t . ers are fully opened. Outflow for drinking water &",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "37.10",
+          "grossStorage": "105.69",
+          "todayStorage": "58.65",
+          "storagePercentage": "45",
+          "outflow": "27.35"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Karapuzha",
+      "officialName": "Karapuzha",
+      "district": "Wayanad",
+      "FRL": "763.00",
+      "blueLevel": "761.00",
+      "orangeLevel": "761.50",
+      "redLevel": "762.00",
+      "latitude": 11.6833,
+      "longitude": 76.1167,
+      "remarks": "3/3 spillway shutter opened @ 10 cm each, Outflow for drinking water",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "757.05",
+          "grossStorage": "76.50",
+          "todayStorage": "34.60",
+          "storagePercentage": "42",
+          "outflow": "1.26"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Pazhassi",
+      "officialName": "Pazhassi (Barrage)",
+      "district": "Kannur",
+      "FRL": "26.52",
+      "blueLevel": "",
+      "orangeLevel": "",
+      "redLevel": "",
+      "latitude": 11.9833,
+      "longitude": 75.6,
+      "remarks": "1 c 0 m /1 6 e a s c h h u . tters opened @ 50 cm each. 5/16 shutters opened @ 20 Colour Code",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "19.09",
+          "grossStorage": "49.08",
+          "todayStorage": "5.80",
+          "storagePercentage": "11",
+          "outflow": "188.74"
+        }
+      ]
+    }
+  ],
+  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/07/IRR-SITE-16.pdf",
+  "scraped_at": "2026-07-21T17:40:53.074895+05:30"
+}

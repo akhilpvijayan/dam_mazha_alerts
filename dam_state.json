@@ -1,0 +1,432 @@
+{
+  "lastUpdate": "21.07.2026",
+  "dams": [
+    {
+      "id": "1",
+      "name": "Kakki (Anathode)",
+      "officialName": "KAKKI (ANATHODE)",
+      "district": "Pathanamthitta",
+      "MWL": "981.46",
+      "FRL": "981.46",
+      "liveStorageAtFRL": "446.51",
+      "ruleLevel": "975.36",
+      "blueLevel": "973.36",
+      "orangeLevel": "974.36",
+      "redLevel": "974.86",
+      "latitude": 9.341667,
+      "longitude": 77.15,
+      "remarks": "",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "954.26",
+          "liveStorage": "137.72",
+          "storagePercentage": "30.84",
+          "spillwayRelease": ""
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Pamba",
+      "officialName": "PAMBA",
+      "district": "Pathanamthitta",
+      "MWL": "986.33",
+      "FRL": "986.33",
+      "liveStorageAtFRL": "31.15",
+      "ruleLevel": "",
+      "blueLevel": "982.00",
+      "orangeLevel": "983.50",
+      "redLevel": "984.50",
+      "latitude": 9.3906,
+      "longitude": 77.1598,
+      "remarks": "",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "964.45",
+          "liveStorage": "0.97",
+          "storagePercentage": "3.11",
+          "spillwayRelease": ""
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Moozhiyar",
+      "officialName": "MOOZHIYAR",
+      "district": "Pathanamthitta",
+      "MWL": "192.63",
+      "FRL": "192.63",
+      "liveStorageAtFRL": "1.16",
+      "ruleLevel": "",
+      "blueLevel": "",
+      "orangeLevel": "",
+      "redLevel": "190.00",
+      "latitude": 9.308,
+      "longitude": 77.0656,
+      "remarks": "",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "185.40",
+          "liveStorage": "0.32",
+          "storagePercentage": "27.16",
+          "spillwayRelease": ""
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Idukki",
+      "officialName": "IDUKKI",
+      "district": "Idukki",
+      "MWL": "2403.00",
+      "FRL": "2403.00",
+      "liveStorageAtFRL": "1459.49",
+      "ruleLevel": "2377.95",
+      "blueLevel": "2367.33",
+      "orangeLevel": "2373.33",
+      "redLevel": "2374.33",
+      "latitude": 9.8436,
+      "longitude": 76.9762,
+      "remarks": "",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "2327.72",
+          "liveStorage": "415.33",
+          "storagePercentage": "28.46",
+          "spillwayRelease": ""
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Madupetty",
+      "officialName": "MADUPETTY",
+      "district": "Idukki",
+      "MWL": "1599.59",
+      "FRL": "1599.59",
+      "liveStorageAtFRL": "54.770",
+      "ruleLevel": "",
+      "blueLevel": "1596.00",
+      "orangeLevel": "1597.00",
+      "redLevel": "1598.00",
+      "latitude": 10.1063,
+      "longitude": 77.1238,
+      "remarks": "Sluice discharge =0.489 MCM",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "1568.25",
+          "liveStorage": "2.54",
+          "storagePercentage": "4.64",
+          "spillwayRelease": ""
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Anayirankal",
+      "officialName": "ANAYIRANKAL",
+      "district": "Idukki",
+      "MWL": "1207.02",
+      "FRL": "1207.02",
+      "liveStorageAtFRL": "49.83",
+      "ruleLevel": "",
+      "blueLevel": "1205.02",
+      "orangeLevel": "1206.02",
+      "redLevel": "1207.02",
+      "latitude": 10.009515341318457,
+      "longitude": 77.20724298186308,
+      "remarks": "(Sluice gate fully closed @ 4.00 pm on 05.06.26)",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "1195.80",
+          "liveStorage": "11.42",
+          "storagePercentage": "22.92",
+          "spillwayRelease": ""
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Ponmudi",
+      "officialName": "PONMUDI",
+      "district": "Idukki",
+      "MWL": "707.75",
+      "FRL": "707.75",
+      "liveStorageAtFRL": "47.4",
+      "ruleLevel": "",
+      "blueLevel": "704.5",
+      "orangeLevel": "705.5",
+      "redLevel": "706.5",
+      "latitude": 9.9604,
+      "longitude": 77.0565,
+      "remarks": "",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "692.20",
+          "liveStorage": "17.45",
+          "storagePercentage": "36.81",
+          "spillwayRelease": ""
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Kundala",
+      "officialName": "KUNDALA",
+      "district": "Idukki",
+      "MWL": "1758.69",
+      "FRL": "1758.69",
+      "liveStorageAtFRL": "7.65",
+      "ruleLevel": "",
+      "blueLevel": "1755",
+      "orangeLevel": "1756",
+      "redLevel": "1757",
+      "latitude": 10.14358754366575,
+      "longitude": 77.19868256414041,
+      "remarks": "Sluice discharge = 0.00 MCM. All gates are closed",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "1748.10",
+          "liveStorage": "1.94",
+          "storagePercentage": "25.31",
+          "spillwayRelease": ""
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Kallarkutty",
+      "officialName": "KALLARKUTTY",
+      "district": "Idukki",
+      "MWL": "456.59",
+      "FRL": "456.59",
+      "liveStorageAtFRL": "6.43",
+      "ruleLevel": "",
+      "blueLevel": "",
+      "orangeLevel": "",
+      "redLevel": "455",
+      "latitude": 9.98,
+      "longitude": 77.001389,
+      "remarks": "",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "452.40",
+          "liveStorage": "3.91",
+          "storagePercentage": "60.86",
+          "spillwayRelease": ""
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Erattayar",
+      "officialName": "ERATTAYAR",
+      "district": "Idukki",
+      "MWL": "754.38",
+      "FRL": "754.38",
+      "liveStorageAtFRL": "5.29",
+      "ruleLevel": "",
+      "blueLevel": "",
+      "orangeLevel": "",
+      "redLevel": "748.28",
+      "latitude": 9.8103,
+      "longitude": 77.106,
+      "remarks": "",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "747.00",
+          "liveStorage": "0.71",
+          "storagePercentage": "13.47",
+          "spillwayRelease": ""
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Lower Periyar",
+      "officialName": "LOWER PERIYAR",
+      "district": "Idukki",
+      "MWL": "253.00",
+      "FRL": "253.00",
+      "liveStorageAtFRL": "4.55",
+      "ruleLevel": "",
+      "blueLevel": "",
+      "orangeLevel": "",
+      "redLevel": "252.00",
+      "latitude": 9.962,
+      "longitude": 76.9568,
+      "remarks": "",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "247.70",
+          "liveStorage": "2.42",
+          "storagePercentage": "53.12",
+          "spillwayRelease": ""
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Kallar",
+      "officialName": "KALLAR",
+      "district": "Idukki",
+      "MWL": "824.48",
+      "FRL": "824.48",
+      "liveStorageAtFRL": "0.76",
+      "ruleLevel": "",
+      "blueLevel": "",
+      "orangeLevel": "",
+      "redLevel": "823.50",
+      "latitude": 9.8255,
+      "longitude": 77.1562,
+      "remarks": "",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "820.20",
+          "liveStorage": "0.19",
+          "storagePercentage": "25.07",
+          "spillwayRelease": ""
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Idamalayar",
+      "officialName": "IDAMALAYAR",
+      "district": "Ernakulam",
+      "MWL": "169.00",
+      "FRL": "169.00",
+      "liveStorageAtFRL": "1017.80",
+      "ruleLevel": "161.75",
+      "blueLevel": "160.00",
+      "orangeLevel": "160.50",
+      "redLevel": "161.00",
+      "latitude": 10.221867602366947,
+      "longitude": 76.70603684268934,
+      "remarks": "",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "143.45",
+          "liveStorage": "375.96",
+          "storagePercentage": "36.94",
+          "spillwayRelease": ""
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Sholayar",
+      "officialName": "SHOLAYAR",
+      "district": "Thrissur",
+      "MWL": "2663.00",
+      "FRL": "2663.00",
+      "liveStorageAtFRL": "149.09",
+      "ruleLevel": "",
+      "blueLevel": "2658.00",
+      "orangeLevel": "2660.00",
+      "redLevel": "2661.00",
+      "latitude": 10.3178,
+      "longitude": 76.7342,
+      "remarks": "",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "2614.70",
+          "liveStorage": "49.07",
+          "storagePercentage": "32.91",
+          "spillwayRelease": ""
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Poringalkuthu",
+      "officialName": "PORINGALKUTHU",
+      "district": "Thrissur",
+      "MWL": "423.98",
+      "FRL": "423.98",
+      "liveStorageAtFRL": "30.30",
+      "ruleLevel": "",
+      "blueLevel": "421.00",
+      "orangeLevel": "422.00",
+      "redLevel": "423.00",
+      "latitude": 10.3152,
+      "longitude": 76.6344,
+      "remarks": "Spillway gates are kept at crest level, +419.40m",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "416.55",
+          "liveStorage": "12.20",
+          "storagePercentage": "40.26",
+          "spillwayRelease": ""
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Kuttiyadi",
+      "officialName": "KUTTIYADI",
+      "district": "Kozhikkode",
+      "MWL": "758.04",
+      "FRL": "758.04",
+      "liveStorageAtFRL": "33.98",
+      "ruleLevel": "",
+      "blueLevel": "755.5",
+      "orangeLevel": "756.5",
+      "redLevel": "757.5",
+      "latitude": 11.551,
+      "longitude": 75.925,
+      "remarks": "",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "749.02",
+          "liveStorage": "13.87",
+          "storagePercentage": "40.81",
+          "spillwayRelease": ""
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Banasurasagar",
+      "officialName": "BANASURASAGAR",
+      "district": "Wayanad",
+      "MWL": "775.60",
+      "FRL": "775.60",
+      "liveStorageAtFRL": "201.00",
+      "ruleLevel": "773.50",
+      "blueLevel": "769.50",
+      "orangeLevel": "770.00",
+      "redLevel": "770.50",
+      "latitude": 11.6709,
+      "longitude": 75.9504,
+      "remarks": "Tunnel fully closed on 29.06.'26 at 11.15 am. Tunnel discharge- Nil",
+      "data": [
+        {
+          "date": "21.07.2026",
+          "waterLevel": "762.45",
+          "liveStorage": "63.15",
+          "storagePercentage": "31.42",
+          "spillwayRelease": ""
+        }
+      ]
+    }
+  ],
+  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/07/KSEB-SITE-16.pdf",
+  "scraped_at": "2026-07-21T17:40:20.781194+05:30"
+}
