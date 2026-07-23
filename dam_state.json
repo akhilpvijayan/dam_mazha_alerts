@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22.07.2026",
+  "lastUpdate": "23.07.2026",
   "dams": [
     {
       "id": "1",
@@ -18,10 +18,10 @@
       "remarks": "",
       "data": [
         {
-          "date": "22.07.2026",
-          "waterLevel": "954.34",
-          "liveStorage": "138.28",
-          "storagePercentage": "30.97",
+          "date": "23.07.2026",
+          "waterLevel": "954.47",
+          "liveStorage": "139.19",
+          "storagePercentage": "31.17",
           "spillwayRelease": ""
         }
       ]
@@ -43,10 +43,10 @@
       "remarks": "",
       "data": [
         {
-          "date": "22.07.2026",
-          "waterLevel": "964.35",
-          "liveStorage": "0.89",
-          "storagePercentage": "2.86",
+          "date": "23.07.2026",
+          "waterLevel": "964.25",
+          "liveStorage": "0.81",
+          "storagePercentage": "2.60",
           "spillwayRelease": ""
         }
       ]
@@ -68,10 +68,10 @@
       "remarks": "",
       "data": [
         {
-          "date": "22.07.2026",
-          "waterLevel": "185.70",
-          "liveStorage": "0.34",
-          "storagePercentage": "28.97",
+          "date": "23.07.2026",
+          "waterLevel": "186.30",
+          "liveStorage": "0.40",
+          "storagePercentage": "34.05",
           "spillwayRelease": ""
         }
       ]
@@ -84,19 +84,19 @@
       "MWL": "2403.00",
       "FRL": "2403.00",
       "liveStorageAtFRL": "1459.49",
-      "ruleLevel": "2377.95",
-      "blueLevel": "2367.33",
-      "orangeLevel": "2373.33",
-      "redLevel": "2374.33",
+      "ruleLevel": "2380.58",
+      "blueLevel": "2372.58",
+      "orangeLevel": "2378.58",
+      "redLevel": "2379.58",
       "latitude": 9.8436,
       "longitude": 76.9762,
       "remarks": "",
       "data": [
         {
-          "date": "22.07.2026",
-          "waterLevel": "2327.86",
-          "liveStorage": "416.83",
-          "storagePercentage": "28.56",
+          "date": "23.07.2026",
+          "waterLevel": "2328.02",
+          "liveStorage": "418.54",
+          "storagePercentage": "28.68",
           "spillwayRelease": ""
         }
       ]
@@ -115,13 +115,13 @@
       "redLevel": "1598.00",
       "latitude": 10.1063,
       "longitude": 77.1238,
-      "remarks": "Sluice discharge = 0.489 MCM",
+      "remarks": "Sluice discharge =0.489 MCM",
       "data": [
         {
-          "date": "22.07.2026",
-          "waterLevel": "1567.85",
-          "liveStorage": "2.14",
-          "storagePercentage": "3.91",
+          "date": "23.07.2026",
+          "waterLevel": "1567.50",
+          "liveStorage": "1.79",
+          "storagePercentage": "3.27",
           "spillwayRelease": ""
         }
       ]
@@ -143,10 +143,10 @@
       "remarks": "(Sluice gate fully closed @ 4.00 pm on 05.06.'26)",
       "data": [
         {
-          "date": "22.07.2026",
-          "waterLevel": "1195.82",
-          "liveStorage": "11.46",
-          "storagePercentage": "22.99",
+          "date": "23.07.2026",
+          "waterLevel": "1195.85",
+          "liveStorage": "11.51",
+          "storagePercentage": "23.10",
           "spillwayRelease": ""
         }
       ]
@@ -168,10 +168,10 @@
       "remarks": "",
       "data": [
         {
-          "date": "22.07.2026",
-          "waterLevel": "692.15",
-          "liveStorage": "17.37",
-          "storagePercentage": "36.64",
+          "date": "23.07.2026",
+          "waterLevel": "692.35",
+          "liveStorage": "17.68",
+          "storagePercentage": "37.31",
           "spillwayRelease": ""
         }
       ]
@@ -193,10 +193,10 @@
       "remarks": "Sluice discharge = 0.00 MCM. All gates are closed",
       "data": [
         {
-          "date": "22.07.2026",
-          "waterLevel": "1748.20",
-          "liveStorage": "1.97",
-          "storagePercentage": "25.78",
+          "date": "23.07.2026",
+          "waterLevel": "1748.25",
+          "liveStorage": "1.99",
+          "storagePercentage": "26.01",
           "spillwayRelease": ""
         }
       ]
@@ -218,7 +218,7 @@
       "remarks": "",
       "data": [
         {
-          "date": "22.07.2026",
+          "date": "23.07.2026",
           "waterLevel": "452.95",
           "liveStorage": "4.19",
           "storagePercentage": "65.21",
@@ -243,7 +243,7 @@
       "remarks": "",
       "data": [
         {
-          "date": "22.07.2026",
+          "date": "23.07.2026",
           "waterLevel": "747.00",
           "liveStorage": "0.71",
           "storagePercentage": "13.47",
@@ -268,10 +268,10 @@
       "remarks": "",
       "data": [
         {
-          "date": "22.07.2026",
-          "waterLevel": "249.00",
-          "liveStorage": "2.90",
-          "storagePercentage": "63.74",
+          "date": "23.07.2026",
+          "waterLevel": "249.10",
+          "liveStorage": "2.94",
+          "storagePercentage": "64.59",
           "spillwayRelease": ""
         }
       ]
@@ -293,7 +293,7 @@
       "remarks": "",
       "data": [
         {
-          "date": "22.07.2026",
+          "date": "23.07.2026",
           "waterLevel": "820.20",
           "liveStorage": "0.19",
           "storagePercentage": "25.07",
@@ -318,10 +318,10 @@
       "remarks": "",
       "data": [
         {
-          "date": "22.07.2026",
-          "waterLevel": "143.56",
-          "liveStorage": "378.09",
-          "storagePercentage": "37.15",
+          "date": "23.07.2026",
+          "waterLevel": "143.71",
+          "liveStorage": "380.99",
+          "storagePercentage": "37.43",
           "spillwayRelease": ""
         }
       ]
@@ -343,10 +343,10 @@
       "remarks": "",
       "data": [
         {
-          "date": "22.07.2026",
-          "waterLevel": "2615.60",
-          "liveStorage": "50.38",
-          "storagePercentage": "33.79",
+          "date": "23.07.2026",
+          "waterLevel": "2616.60",
+          "liveStorage": "51.87",
+          "storagePercentage": "34.79",
           "spillwayRelease": ""
         }
       ]
@@ -368,10 +368,10 @@
       "remarks": "Spillway gates are kept at crest level, +419.40",
       "data": [
         {
-          "date": "22.07.2026",
-          "waterLevel": "416.50",
-          "liveStorage": "12.10",
-          "storagePercentage": "39.93",
+          "date": "23.07.2026",
+          "waterLevel": "417.15",
+          "liveStorage": "13.40",
+          "storagePercentage": "44.22",
           "spillwayRelease": ""
         }
       ]
@@ -393,10 +393,10 @@
       "remarks": "",
       "data": [
         {
-          "date": "22.07.2026",
-          "waterLevel": "749.20",
-          "liveStorage": "14.20",
-          "storagePercentage": "41.78",
+          "date": "23.07.2026",
+          "waterLevel": "749.56",
+          "liveStorage": "14.92",
+          "storagePercentage": "43.89",
           "spillwayRelease": ""
         }
       ]
@@ -418,15 +418,15 @@
       "remarks": "Tunnel fully closed on 29.06.'26 at 11.15 am. Tunnel discharge- Nil",
       "data": [
         {
-          "date": "22.07.2026",
-          "waterLevel": "762.50",
-          "liveStorage": "63.35",
-          "storagePercentage": "31.52",
+          "date": "23.07.2026",
+          "waterLevel": "762.60",
+          "liveStorage": "64.35",
+          "storagePercentage": "32.01",
           "spillwayRelease": ""
         }
       ]
     }
   ],
-  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/07/KSEB-SITE-17.pdf",
-  "scraped_at": "2026-07-23T11:18:33.800055+05:30"
+  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/07/KSEB-Site-6.pdf",
+  "scraped_at": "2026-07-23T13:50:37.880067+05:30"
 }
