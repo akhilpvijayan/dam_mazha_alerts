@@ -294,9 +294,9 @@
       "data": [
         {
           "date": "01.08.2026",
-          "waterLevel": "821.40",
+          "waterLevel": "824.40",
           "liveStorage": "1.10",
-          "storagePercentage": "144.21",
+          "storagePercentage": "32.63",
           "spillwayRelease": ""
         }
       ]
