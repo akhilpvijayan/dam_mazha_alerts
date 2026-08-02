@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-02T21:26:49.565892+05:30",
+  "scraped_at": "2026-08-03T00:30:52.833925+05:30",
   "lastUpdate": "02.08.2026",
   "colors": {
     "Kakki (Anathode)": "green",
@@ -17,7 +17,7 @@
     "Idamalayar": "green",
     "Sholayar": "green",
     "Poringalkuthu": "green",
-    "Kuttiyadi": "orange",
+    "Kuttiyadi": "red",
     "Banasurasagar": "green"
   }
 }
