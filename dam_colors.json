@@ -1,23 +1,23 @@
 {
-  "scraped_at": "2026-08-01T18:35:26.011760+05:30",
-  "lastUpdate": "01.08.2026",
+  "scraped_at": "2026-08-02T11:27:13.196314+05:30",
+  "lastUpdate": "02.08.2026",
   "colors": {
     "Kakki (Anathode)": "green",
     "Pamba": "green",
-    "Moozhiyar": "red",
+    "Moozhiyar": "green",
     "Idukki": "green",
     "Madupetty": "green",
     "Anayirankal": "green",
     "Ponmudi": "green",
     "Kundala": "green",
     "Kallarkutty": "red",
-    "Erattayar": "green",
+    "Erattayar": "red",
     "Lower Periyar": "red",
     "Kallar": "green",
     "Idamalayar": "green",
     "Sholayar": "green",
     "Poringalkuthu": "green",
-    "Kuttiyadi": "green",
+    "Kuttiyadi": "orange",
     "Banasurasagar": "green"
   }
 }
