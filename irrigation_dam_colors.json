@@ -1,11 +1,11 @@
 {
-  "scraped_at": "2026-08-01T18:35:46.939126+05:30",
-  "lastUpdate": "01.08.2026",
+  "scraped_at": "2026-08-02T11:27:33.835102+05:30",
+  "lastUpdate": "02.08.2026",
   "colors": {
     "Neyyar": "red",
     "Kallada": "green",
     "Maniyar": "green",
-    "Malankara": "blue",
+    "Malankara": "red",
     "Bhoothathankettu": "green",
     "Vazhani": "green",
     "Chimoni": "green",
@@ -17,7 +17,7 @@
     "Malampuzha": "green",
     "Pothundy": "green",
     "Chulliyar": "green",
-    "Mangalam": "red",
+    "Mangalam": "orange",
     "Moolathara": "green",
     "Kuttiyadi": "green",
     "Karapuzha": "green",
