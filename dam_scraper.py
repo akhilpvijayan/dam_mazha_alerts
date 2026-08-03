@@ -19,6 +19,12 @@ Moozhiyar/Kallarkutty/Erattayar each publish only ONE threshold, and it
 is always their Red alert level - never Blue. See _split_numeric_tokens
 and map_number_tokens for the general (0-4 value) handling.
 
+NOTE: dams without known coordinates (i.e. not present in DAM_COORDINATES)
+are silently EXCLUDED from the final output - see the `if` check at the
+end of the per-dam loop in parse_dam_table(). This keeps every dam in the
+output mappable; if a new dam name shows up in the PDF, add its lat/lng
+to DAM_COORDINATES to have it included again.
+
 Usage:
   pip install requests pdfplumber
   python dam_scraper.py
@@ -251,11 +257,16 @@ def parse_dam_table(raw_text: str, last_update: str) -> dict:
       line3: "EnglishName (EnglishDistrict)"
     Detected by scanning for a line matching '^{expected_index}\\s+...' —
     the line BEFORE it is line1, the line AFTER it is line3.
+
+    Dams whose name isn't found in DAM_COORDINATES (i.e. lat/lng unknown)
+    are skipped entirely and do NOT appear in the returned "dams" list -
+    see the lat/lng check below.
     """
     lines = [ln.strip() for ln in raw_text.split("\n")]
     lines = [ln for ln in lines if ln]
 
     dams = []
+    skipped_no_coords = []
     expected_index = 1
     max_index = 30
     i = 0
@@ -281,35 +292,45 @@ def parse_dam_table(raw_text: str, last_update: str) -> dict:
 
             if numbers_dict is not None and official_name:
                 lat, lng = DAM_COORDINATES.get(official_name, (None, None))
-                friendly = FRIENDLY_NAME_OVERRIDES.get(official_name, official_name.title())
 
-                dams.append({
-                    "id": str(expected_index),
-                    "name": friendly,
-                    "officialName": official_name,
-                    "district": district_en,
-                    "MWL": numbers_dict["FRL"],
-                    "FRL": numbers_dict["FRL"],
-                    "liveStorageAtFRL": numbers_dict["liveStorageAtFRL"],
-                    "ruleLevel": numbers_dict["ruleLevel"],
-                    "blueLevel": numbers_dict["blueLevel"],
-                    "orangeLevel": numbers_dict["orangeLevel"],
-                    "redLevel": numbers_dict["redLevel"],
-                    "latitude": lat,
-                    "longitude": lng,
-                    "remarks": remarks,
-                    "data": [{
-                        "date": last_update,
-                        "waterLevel": numbers_dict["waterLevel"],
-                        "liveStorage": numbers_dict["liveStorage"],
-                        "storagePercentage": numbers_dict["storagePercentage"],
-                        "spillwayRelease": numbers_dict["spillwayRelease"],
-                    }],
-                })
+                # Skip dams with no known coordinates instead of emitting
+                # them with null latitude/longitude.
+                if lat is None or lng is None:
+                    skipped_no_coords.append(official_name)
+                else:
+                    friendly = FRIENDLY_NAME_OVERRIDES.get(official_name, official_name.title())
+
+                    dams.append({
+                        "id": str(expected_index),
+                        "name": friendly,
+                        "officialName": official_name,
+                        "district": district_en,
+                        "MWL": numbers_dict["FRL"],
+                        "FRL": numbers_dict["FRL"],
+                        "liveStorageAtFRL": numbers_dict["liveStorageAtFRL"],
+                        "ruleLevel": numbers_dict["ruleLevel"],
+                        "blueLevel": numbers_dict["blueLevel"],
+                        "orangeLevel": numbers_dict["orangeLevel"],
+                        "redLevel": numbers_dict["redLevel"],
+                        "latitude": lat,
+                        "longitude": lng,
+                        "remarks": remarks,
+                        "data": [{
+                            "date": last_update,
+                            "waterLevel": numbers_dict["waterLevel"],
+                            "liveStorage": numbers_dict["liveStorage"],
+                            "storagePercentage": numbers_dict["storagePercentage"],
+                            "spillwayRelease": numbers_dict["spillwayRelease"],
+                        }],
+                    })
             expected_index += 1
             i += 2  # skip past line3 too
         else:
             i += 1
+
+    if skipped_no_coords:
+        print(f"[info] Skipped {len(skipped_no_coords)} dam(s) with no known coordinates: "
+              f"{', '.join(skipped_no_coords)} (add them to DAM_COORDINATES to include)")
 
     return {"lastUpdate": last_update, "dams": dams}
 
