@@ -127,31 +127,6 @@
       ]
     },
     {
-      "id": "6",
-      "name": "Anayirankal) (Idukki",
-      "officialName": "ANAYIRANKAL) (IDUKKI",
-      "district": "Sluice gate fully closed @ 4.00 pm on 05.06.'26",
-      "MWL": "1207.02",
-      "FRL": "1207.02",
-      "liveStorageAtFRL": "49.83",
-      "ruleLevel": "",
-      "blueLevel": "1205.02",
-      "orangeLevel": "1206.02",
-      "redLevel": "1207.02",
-      "latitude": null,
-      "longitude": null,
-      "remarks": "Status at 10.00PM",
-      "data": [
-        {
-          "date": "03.08.2026",
-          "waterLevel": "1196.29",
-          "liveStorage": "12.27",
-          "storagePercentage": "24.63",
-          "spillwayRelease": ""
-        }
-      ]
-    },
-    {
       "id": "7",
       "name": "Ponmudi",
       "officialName": "PONMUDI",
@@ -428,5 +403,5 @@
     }
   ],
   "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/08/kseb-site-05.00-am.pdf",
-  "scraped_at": "2026-08-03T07:41:32.301951+05:30"
+  "scraped_at": "2026-08-03T08:34:44.644466+05:30"
 }
