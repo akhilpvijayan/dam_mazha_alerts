@@ -15,13 +15,13 @@
       "redLevel": "975.25",
       "latitude": 9.341667,
       "longitude": 77.15,
-      "remarks": "",
+      "remarks": "All gates are in closed condition.",
       "data": [
         {
           "date": "04.08.2026",
-          "waterLevel": "964.84",
-          "liveStorage": "224.56",
-          "storagePercentage": "50.29",
+          "waterLevel": "965.00",
+          "liveStorage": "226.00",
+          "storagePercentage": "50.61",
           "spillwayRelease": ""
         }
       ]
@@ -40,7 +40,7 @@
       "redLevel": "984.50",
       "latitude": 9.3906,
       "longitude": 77.1598,
-      "remarks": "",
+      "remarks": "All gates are closed",
       "data": [
         {
           "date": "04.08.2026",
@@ -65,13 +65,13 @@
       "redLevel": "190.00",
       "latitude": 9.308,
       "longitude": 77.0656,
-      "remarks": "All gates are closed on 03.08.2026 at 11.00PM.",
+      "remarks": "All gates are closed on 03.08.2026 at 11.00 PM.",
       "data": [
         {
           "date": "04.08.2026",
-          "waterLevel": "187.05",
-          "liveStorage": "0.47",
-          "storagePercentage": "40.69",
+          "waterLevel": "187.60",
+          "liveStorage": "0.53",
+          "storagePercentage": "45.60",
           "spillwayRelease": ""
         }
       ]
@@ -90,13 +90,13 @@
       "redLevel": "2382.53",
       "latitude": 9.8436,
       "longitude": 76.9762,
-      "remarks": "",
+      "remarks": "All radial gates are in fully closed condition.",
       "data": [
         {
           "date": "04.08.2026",
-          "waterLevel": "2346.84",
-          "liveStorage": "630.52",
-          "storagePercentage": "43.20",
+          "waterLevel": "2347.16",
+          "liveStorage": "634.45",
+          "storagePercentage": "43.47",
           "spillwayRelease": ""
         }
       ]
@@ -119,9 +119,9 @@
       "data": [
         {
           "date": "04.08.2026",
-          "waterLevel": "1568.80",
-          "liveStorage": "3.09",
-          "storagePercentage": "5.64",
+          "waterLevel": "1568.85",
+          "liveStorage": "3.14",
+          "storagePercentage": "5.73",
           "spillwayRelease": ""
         }
       ]
@@ -144,9 +144,9 @@
       "data": [
         {
           "date": "04.08.2026",
-          "waterLevel": "1196.38",
-          "liveStorage": "12.43",
-          "storagePercentage": "24.94",
+          "waterLevel": "1196.39",
+          "liveStorage": "12.4456",
+          "storagePercentage": "24.98",
           "spillwayRelease": ""
         }
       ]
@@ -165,13 +165,13 @@
       "redLevel": "706.5",
       "latitude": 9.9604,
       "longitude": 77.0565,
-      "remarks": "",
+      "remarks": "All gates are closed",
       "data": [
         {
           "date": "04.08.2026",
-          "waterLevel": "699.45",
-          "liveStorage": "29.23",
-          "storagePercentage": "61.67",
+          "waterLevel": "699.55",
+          "liveStorage": "29.39",
+          "storagePercentage": "62.00",
           "spillwayRelease": ""
         }
       ]
@@ -215,14 +215,14 @@
       "redLevel": "455",
       "latitude": 9.98,
       "longitude": 77.001389,
-      "remarks": "Radial gate opening: 1, 2,3 & 4-15cm",
+      "remarks": "Radial gate opening: 2,3 & 4-15cm",
       "data": [
         {
           "date": "04.08.2026",
-          "waterLevel": "456.30",
-          "liveStorage": "6.28",
-          "storagePercentage": "97.68",
-          "spillwayRelease": "60.00"
+          "waterLevel": "456.20",
+          "liveStorage": "6.22",
+          "storagePercentage": "96.72",
+          "spillwayRelease": "45.00"
         }
       ]
     },
@@ -240,7 +240,7 @@
       "redLevel": "748.28",
       "latitude": 9.8103,
       "longitude": 77.106,
-      "remarks": "",
+      "remarks": "As per 7:00 AM",
       "data": [
         {
           "date": "04.08.2026",
@@ -265,14 +265,14 @@
       "redLevel": "252.00",
       "latitude": 9.962,
       "longitude": 76.9568,
-      "remarks": "Upper vent- 1- 30cm, uv 3 - 40cm &uv 4-50cm",
+      "remarks": "Upper vent- 1- 30cm, uv 3 - 40cm",
       "data": [
         {
           "date": "04.08.2026",
-          "waterLevel": "252.80",
-          "liveStorage": "4.46",
-          "storagePercentage": "98.11",
-          "spillwayRelease": "192.00"
+          "waterLevel": "253.00",
+          "liveStorage": "4.55",
+          "storagePercentage": "100.00",
+          "spillwayRelease": "112.00"
         }
       ]
     },
@@ -290,7 +290,7 @@
       "redLevel": "823.50",
       "latitude": 9.8255,
       "longitude": 77.1562,
-      "remarks": "",
+      "remarks": "As per 7:00 AM",
       "data": [
         {
           "date": "04.08.2026",
@@ -315,7 +315,7 @@
       "redLevel": "162.50",
       "latitude": 10.221867602366947,
       "longitude": 76.70603684268934,
-      "remarks": "",
+      "remarks": "As per 7:00 AM",
       "data": [
         {
           "date": "04.08.2026",
@@ -340,13 +340,13 @@
       "redLevel": "2661.00",
       "latitude": 10.3178,
       "longitude": 76.7342,
-      "remarks": "",
+      "remarks": "All radial gates are in fully closed condition.",
       "data": [
         {
           "date": "04.08.2026",
-          "waterLevel": "2628.80",
-          "liveStorage": "71.85",
-          "storagePercentage": "48.19",
+          "waterLevel": "2629.00",
+          "liveStorage": "72.21",
+          "storagePercentage": "48.43",
           "spillwayRelease": ""
         }
       ]
@@ -369,10 +369,10 @@
       "data": [
         {
           "date": "04.08.2026",
-          "waterLevel": "418.60",
-          "liveStorage": "16.39",
-          "storagePercentage": "54.09",
-          "spillwayRelease": "174.58"
+          "waterLevel": "418.30",
+          "liveStorage": "15.75",
+          "storagePercentage": "51.98",
+          "spillwayRelease": "173.54"
         }
       ]
     },
@@ -390,14 +390,14 @@
       "redLevel": "757.50",
       "latitude": 11.551,
       "longitude": 75.925,
-      "remarks": "Gate 1 &2 - 0.25",
+      "remarks": "Gate 1 &2 - 0.25 opened",
       "data": [
         {
           "date": "04.08.2026",
-          "waterLevel": "757.49",
-          "liveStorage": "32.61",
-          "storagePercentage": "95.97",
-          "spillwayRelease": "12.88"
+          "waterLevel": "757.46",
+          "liveStorage": "32.53",
+          "storagePercentage": "95.74",
+          "spillwayRelease": "12.72"
         }
       ]
     },
@@ -415,18 +415,18 @@
       "redLevel": "773.50",
       "latitude": 11.6709,
       "longitude": 75.9504,
-      "remarks": "Tunnel fully closed on 29.06.'26 at 11.15 am. Tunnel discharge- Nil",
+      "remarks": "All radial gates are in fully closed condition.",
       "data": [
         {
           "date": "04.08.2026",
-          "waterLevel": "768.25",
-          "liveStorage": "116.15",
-          "storagePercentage": "57.79",
+          "waterLevel": "768.30",
+          "liveStorage": "116.75",
+          "storagePercentage": "58.08",
           "spillwayRelease": ""
         }
       ]
     }
   ],
-  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/08/KSEB-SITE-9-AM.pdf",
-  "scraped_at": "2026-08-04T11:12:13.839699+05:30"
+  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/08/KSEB-Site-11.00-am.pdf",
+  "scraped_at": "2026-08-04T13:58:21.814928+05:30"
 }
