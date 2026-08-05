@@ -19,9 +19,9 @@
       "data": [
         {
           "date": "05.08.2026",
-          "waterLevel": "966.00",
-          "liveStorage": "235.20",
-          "storagePercentage": "52.68",
+          "waterLevel": "966.11",
+          "liveStorage": "236.25",
+          "storagePercentage": "52.91",
           "spillwayRelease": ""
         }
       ]
@@ -40,13 +40,13 @@
       "redLevel": "984.50",
       "latitude": 9.3906,
       "longitude": 77.1598,
-      "remarks": "Status at 7.00AM. All gate are closed",
+      "remarks": "All gate are closed",
       "data": [
         {
           "date": "05.08.2026",
-          "waterLevel": "975.60",
-          "liveStorage": "13.03",
-          "storagePercentage": "41.83",
+          "waterLevel": "975.55",
+          "liveStorage": "12.96",
+          "storagePercentage": "41.61",
           "spillwayRelease": ""
         }
       ]
@@ -69,9 +69,9 @@
       "data": [
         {
           "date": "05.08.2026",
-          "waterLevel": "188.40",
-          "liveStorage": "0.61",
-          "storagePercentage": "52.67",
+          "waterLevel": "188.20",
+          "liveStorage": "0.59",
+          "storagePercentage": "50.86",
           "spillwayRelease": ""
         }
       ]
@@ -94,9 +94,9 @@
       "data": [
         {
           "date": "05.08.2026",
-          "waterLevel": "2349.26",
-          "liveStorage": "660.23",
-          "storagePercentage": "45.24",
+          "waterLevel": "2349.46",
+          "liveStorage": "662.69",
+          "storagePercentage": "45.41",
           "spillwayRelease": ""
         }
       ]
@@ -119,9 +119,9 @@
       "data": [
         {
           "date": "05.08.2026",
-          "waterLevel": "1569.10",
-          "liveStorage": "3.39",
-          "storagePercentage": "6.19",
+          "waterLevel": "1569.15",
+          "liveStorage": "3.44",
+          "storagePercentage": "6.28",
           "spillwayRelease": ""
         }
       ]
@@ -144,9 +144,9 @@
       "data": [
         {
           "date": "05.08.2026",
-          "waterLevel": "1196.43",
-          "liveStorage": "12.52",
-          "storagePercentage": "25.12",
+          "waterLevel": "1196.44",
+          "liveStorage": "12.53",
+          "storagePercentage": "25.15",
           "spillwayRelease": ""
         }
       ]
@@ -215,14 +215,14 @@
       "redLevel": "455",
       "latitude": 9.98,
       "longitude": 77.001389,
-      "remarks": "Radial gate opening: 2 & 3 -15cm",
+      "remarks": "Radial gate opening: 2, 3 & 4 -15 cm",
       "data": [
         {
           "date": "05.08.2026",
-          "waterLevel": "456.35",
-          "liveStorage": "6.31",
-          "storagePercentage": "98.09",
-          "spillwayRelease": "30.00"
+          "waterLevel": "456.45",
+          "liveStorage": "6.36",
+          "storagePercentage": "98.88",
+          "spillwayRelease": "45.00"
         }
       ]
     },
@@ -265,14 +265,14 @@
       "redLevel": "252.00",
       "latitude": 9.962,
       "longitude": 76.9568,
-      "remarks": "Upper vent- 1- 20cm, uv 3 - 20cm",
+      "remarks": "Upper vent- 1- 30 cm, uv 3 - 20 cm",
       "data": [
         {
           "date": "05.08.2026",
           "waterLevel": "253.00",
           "liveStorage": "4.55",
           "storagePercentage": "100.00",
-          "spillwayRelease": "64.00"
+          "spillwayRelease": "80.00"
         }
       ]
     },
@@ -319,9 +319,9 @@
       "data": [
         {
           "date": "05.08.2026",
-          "waterLevel": "149.84",
-          "liveStorage": "511.71",
-          "storagePercentage": "50.28",
+          "waterLevel": "149.90",
+          "liveStorage": "513.07",
+          "storagePercentage": "50.41",
           "spillwayRelease": ""
         }
       ]
@@ -344,9 +344,9 @@
       "data": [
         {
           "date": "05.08.2026",
-          "waterLevel": "2630.60",
-          "liveStorage": "75.08",
-          "storagePercentage": "50.36",
+          "waterLevel": "2630.80",
+          "liveStorage": "75.44",
+          "storagePercentage": "50.60",
           "spillwayRelease": ""
         }
       ]
@@ -369,9 +369,9 @@
       "data": [
         {
           "date": "05.08.2026",
-          "waterLevel": "419.20",
-          "liveStorage": "17.75",
-          "storagePercentage": "58.58",
+          "waterLevel": "419.40",
+          "liveStorage": "18.25",
+          "storagePercentage": "60.23",
           "spillwayRelease": ""
         }
       ]
@@ -394,10 +394,10 @@
       "data": [
         {
           "date": "05.08.2026",
-          "waterLevel": "757.13",
-          "liveStorage": "31.69",
-          "storagePercentage": "93.27",
-          "spillwayRelease": "12.37"
+          "waterLevel": "757.09",
+          "liveStorage": "31.62",
+          "storagePercentage": "93.05",
+          "spillwayRelease": "12.31"
         }
       ]
     },
@@ -419,14 +419,14 @@
       "data": [
         {
           "date": "05.08.2026",
-          "waterLevel": "768.55",
-          "liveStorage": "119.15",
-          "storagePercentage": "59.28",
+          "waterLevel": "768.60",
+          "liveStorage": "119.95",
+          "storagePercentage": "59.68",
           "spillwayRelease": ""
         }
       ]
     }
   ],
-  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/08/KSEB-Site-11-am-1.pdf",
-  "scraped_at": "2026-08-05T13:56:27.729507+05:30"
+  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/08/KSEB-SITE-@-01.00-PM.pdf",
+  "scraped_at": "2026-08-05T16:45:15.752050+05:30"
 }
