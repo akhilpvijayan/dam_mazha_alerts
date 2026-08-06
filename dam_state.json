@@ -65,13 +65,13 @@
       "redLevel": "190.00",
       "latitude": 9.308,
       "longitude": 77.0656,
-      "remarks": "All gates are closed. Status as per 05.08.26,10 PM.",
+      "remarks": "All gates are closed.",
       "data": [
         {
           "date": "06.08.2026",
-          "waterLevel": "187.90",
-          "liveStorage": "0.56",
-          "storagePercentage": "48.19",
+          "waterLevel": "187.40",
+          "liveStorage": "0.51",
+          "storagePercentage": "43.79",
           "spillwayRelease": ""
         }
       ]
@@ -84,7 +84,7 @@
       "MWL": "2403.00",
       "FRL": "2403.00",
       "liveStorageAtFRL": "1459.49",
-      "ruleLevel": "2383.53",
+      "ruleLevel": "2350.08",
       "blueLevel": "2375.53",
       "orangeLevel": "2381.53",
       "redLevel": "2382.53",
@@ -215,7 +215,7 @@
       "redLevel": "455",
       "latitude": 9.98,
       "longitude": 77.001389,
-      "remarks": "Radial gate No. 3 opening: 15cm. Status as per 10 PM , 5.8.26.",
+      "remarks": "Radial gate No. 3 opening: 15cm.",
       "data": [
         {
           "date": "06.08.2026",
@@ -240,7 +240,7 @@
       "redLevel": "748.28",
       "latitude": 9.8103,
       "longitude": 77.106,
-      "remarks": "Status at 7.00 AM. All gates are in closed position.",
+      "remarks": "Status at 5.8.2026,7.00 AM. All gates are in closed position.",
       "data": [
         {
           "date": "06.08.2026",
@@ -269,9 +269,9 @@
       "data": [
         {
           "date": "06.08.2026",
-          "waterLevel": "252.90",
-          "liveStorage": "4.51",
-          "storagePercentage": "99.05",
+          "waterLevel": "253.00",
+          "liveStorage": "4.55",
+          "storagePercentage": "100.00",
           "spillwayRelease": "16.00"
         }
       ]
@@ -290,7 +290,7 @@
       "redLevel": "823.50",
       "latitude": 9.8255,
       "longitude": 77.1562,
-      "remarks": "Status @ 7.00 AM. All gates are in closed position",
+      "remarks": "Status @ 5.8.2026,7.00 AM. All gates are in closed position.",
       "data": [
         {
           "date": "06.08.2026",
@@ -369,10 +369,10 @@
       "data": [
         {
           "date": "06.08.2026",
-          "waterLevel": "419.75",
-          "liveStorage": "19.13",
-          "storagePercentage": "63.14",
-          "spillwayRelease": "25.15"
+          "waterLevel": "419.80",
+          "liveStorage": "19.25",
+          "storagePercentage": "63.53",
+          "spillwayRelease": "35.97"
         }
       ]
     },
@@ -394,10 +394,10 @@
       "data": [
         {
           "date": "06.08.2026",
-          "waterLevel": "756.88",
-          "liveStorage": "31.09",
-          "storagePercentage": "91.48",
-          "spillwayRelease": "12.09"
+          "waterLevel": "756.73",
+          "liveStorage": "30.71",
+          "storagePercentage": "90.36",
+          "spillwayRelease": "11.90"
         }
       ]
     },
@@ -419,14 +419,14 @@
       "data": [
         {
           "date": "06.08.2026",
-          "waterLevel": "768.70",
-          "liveStorage": "121.15",
-          "storagePercentage": "60.27",
+          "waterLevel": "768.75",
+          "liveStorage": "121.35",
+          "storagePercentage": "60.37",
           "spillwayRelease": ""
         }
       ]
     }
   ],
-  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/08/KSEB-SITE-02.00-AM.pdf",
-  "scraped_at": "2026-08-06T03:37:47.765873+05:30"
+  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/08/KSEB-SITE-07.00-AM-1.pdf",
+  "scraped_at": "2026-08-06T07:30:26.940305+05:30"
 }
