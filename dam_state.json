@@ -19,10 +19,10 @@
       "data": [
         {
           "date": "07.08.2026",
-          "waterLevel": "967.56",
-          "liveStorage": "251.21",
-          "storagePercentage": "56.26",
-          "spillwayRelease": ""
+          "waterLevel": "967.71",
+          "liveStorage": "252.86",
+          "storagePercentage": "56.63",
+          "spillwayRelease": "0.00"
         }
       ]
     },
@@ -40,14 +40,14 @@
       "redLevel": "984.50",
       "latitude": 9.3906,
       "longitude": 77.1598,
-      "remarks": "All gates are in closed position (status at 10.00 AM)",
+      "remarks": "All gates are in closed position",
       "data": [
         {
           "date": "07.08.2026",
-          "waterLevel": "974.45",
-          "liveStorage": "11.31",
-          "storagePercentage": "36.31",
-          "spillwayRelease": ""
+          "waterLevel": "974.3",
+          "liveStorage": "11.08",
+          "storagePercentage": "35.57",
+          "spillwayRelease": "0.00"
         }
       ]
     },
@@ -69,10 +69,10 @@
       "data": [
         {
           "date": "07.08.2026",
-          "waterLevel": "187.00",
-          "liveStorage": "0.466",
-          "storagePercentage": "40.17",
-          "spillwayRelease": ""
+          "waterLevel": "188.00",
+          "liveStorage": "0.569",
+          "storagePercentage": "49.05",
+          "spillwayRelease": "0.00"
         }
       ]
     },
@@ -90,14 +90,14 @@
       "redLevel": "2382.53",
       "latitude": 9.8436,
       "longitude": 76.9762,
-      "remarks": "All gates are in closed position (status at 10.00 AM)",
+      "remarks": "All gates are in closed position",
       "data": [
         {
           "date": "07.08.2026",
-          "waterLevel": "2352.04",
-          "liveStorage": "694.395",
-          "storagePercentage": "47.58",
-          "spillwayRelease": ""
+          "waterLevel": "2352.48",
+          "liveStorage": "699.803",
+          "storagePercentage": "47.95",
+          "spillwayRelease": "0.00"
         }
       ]
     },
@@ -119,10 +119,10 @@
       "data": [
         {
           "date": "07.08.2026",
-          "waterLevel": "1569.60",
-          "liveStorage": "3.89",
-          "storagePercentage": "7.10",
-          "spillwayRelease": ""
+          "waterLevel": "1569.7",
+          "liveStorage": "3.99",
+          "storagePercentage": "7.29",
+          "spillwayRelease": "0.00"
         }
       ]
     },
@@ -140,14 +140,14 @@
       "redLevel": "1207.02",
       "latitude": 10.009515341318457,
       "longitude": 77.20724298186308,
-      "remarks": "All gates are in closed position (status at 10.00 PM)",
+      "remarks": "All gates are in closed position",
       "data": [
         {
           "date": "07.08.2026",
-          "waterLevel": "1196.54",
-          "liveStorage": "12.7058",
-          "storagePercentage": "25.50",
-          "spillwayRelease": ""
+          "waterLevel": "1196.55",
+          "liveStorage": "12.7231",
+          "storagePercentage": "25.53",
+          "spillwayRelease": "0.00"
         }
       ]
     },
@@ -169,10 +169,10 @@
       "data": [
         {
           "date": "07.08.2026",
-          "waterLevel": "700.00",
-          "liveStorage": "30.1779",
-          "storagePercentage": "63.67",
-          "spillwayRelease": ""
+          "waterLevel": "700.05",
+          "liveStorage": "30.2773",
+          "storagePercentage": "63.88",
+          "spillwayRelease": "0.00"
         }
       ]
     },
@@ -197,32 +197,7 @@
           "waterLevel": "1749.45",
           "liveStorage": "2.46",
           "storagePercentage": "32.16",
-          "spillwayRelease": ""
-        }
-      ]
-    },
-    {
-      "id": "9",
-      "name": "Kallarkutty",
-      "officialName": "KALLARKUTTY",
-      "district": "Idukki",
-      "MWL": "456.59",
-      "FRL": "456.59",
-      "liveStorageAtFRL": "6.43",
-      "ruleLevel": "",
-      "blueLevel": "",
-      "orangeLevel": "",
-      "redLevel": "455",
-      "latitude": 9.98,
-      "longitude": 77.001389,
-      "remarks": "Radial gate opening: #3-15 cm",
-      "data": [
-        {
-          "date": "07.08.2026",
-          "waterLevel": "456.45",
-          "liveStorage": "6.36",
-          "storagePercentage": "98.88",
-          "spillwayRelease": "15.00"
+          "spillwayRelease": "0.00"
         }
       ]
     },
@@ -269,9 +244,9 @@
       "data": [
         {
           "date": "07.08.2026",
-          "waterLevel": "253.00",
-          "liveStorage": "4.55",
-          "storagePercentage": "100.00",
+          "waterLevel": "252.90",
+          "liveStorage": "4.51",
+          "storagePercentage": "99.05",
           "spillwayRelease": "16.00"
         }
       ]
@@ -319,10 +294,10 @@
       "data": [
         {
           "date": "07.08.2026",
-          "waterLevel": "150.88",
-          "liveStorage": "535.721",
-          "storagePercentage": "52.64",
-          "spillwayRelease": ""
+          "waterLevel": "151.01",
+          "liveStorage": "538.732",
+          "storagePercentage": "52.93",
+          "spillwayRelease": "0.00"
         }
       ]
     },
@@ -340,14 +315,14 @@
       "redLevel": "2661.00",
       "latitude": 10.3178,
       "longitude": 76.7342,
-      "remarks": "All radial gates are in fully closed condition",
+      "remarks": "All radial gates are in fully closed condition (status at 1.00 PM)",
       "data": [
         {
           "date": "07.08.2026",
-          "waterLevel": "2633.50",
+          "waterLevel": "2633.5",
           "liveStorage": "80.38",
           "storagePercentage": "53.91",
-          "spillwayRelease": ""
+          "spillwayRelease": "0.00"
         }
       ]
     },
@@ -372,7 +347,7 @@
           "waterLevel": "420.00",
           "liveStorage": "19.75",
           "storagePercentage": "65.18",
-          "spillwayRelease": "63.91"
+          "spillwayRelease": "66.69"
         }
       ]
     },
@@ -390,13 +365,13 @@
       "redLevel": "757.50",
       "latitude": 11.551,
       "longitude": 75.925,
-      "remarks": "Both gates fully closed & control shaft gate closed",
+      "remarks": "Both gates fully closed & control shaft gate fully closed",
       "data": [
         {
           "date": "07.08.2026",
-          "waterLevel": "756.1175",
-          "liveStorage": "29.18",
-          "storagePercentage": "85.88",
+          "waterLevel": "756.24",
+          "liveStorage": "29.4860",
+          "storagePercentage": "86.77",
           "spillwayRelease": ""
         }
       ]
@@ -419,14 +394,14 @@
       "data": [
         {
           "date": "07.08.2026",
-          "waterLevel": "769.10",
-          "liveStorage": "125.15",
-          "storagePercentage": "62.26",
-          "spillwayRelease": ""
+          "waterLevel": "769.20",
+          "liveStorage": "126.35",
+          "storagePercentage": "62.86",
+          "spillwayRelease": "0.00"
         }
       ]
     }
   ],
-  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/08/KSEB-SITE-2-PM.pdf",
-  "scraped_at": "2026-08-07T18:19:35.144527+05:30"
+  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/08/KSEB-SITE-@-08.00-PM.pdf",
+  "scraped_at": "2026-08-07T21:20:30.306187+05:30"
 }
