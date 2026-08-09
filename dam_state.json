@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09.08.2026",
+  "lastUpdate": "10.08.2026",
   "dams": [
     {
       "id": "1",
@@ -18,7 +18,7 @@
       "remarks": "All gates are in closed position.",
       "data": [
         {
-          "date": "09.08.2026",
+          "date": "10.08.2026",
           "waterLevel": "969.09",
           "liveStorage": "268.83",
           "storagePercentage": "60.21",
@@ -43,7 +43,7 @@
       "remarks": "All gates are in closed position.",
       "data": [
         {
-          "date": "09.08.2026",
+          "date": "10.08.2026",
           "waterLevel": "973.40",
           "liveStorage": "9.98",
           "storagePercentage": "32.04",
@@ -62,16 +62,16 @@
       "ruleLevel": "",
       "blueLevel": "",
       "orangeLevel": "",
-      "redLevel": "190.00",
+      "redLevel": "190",
       "latitude": 9.308,
       "longitude": 77.0656,
       "remarks": "All gates are in closed position",
       "data": [
         {
-          "date": "09.08.2026",
-          "waterLevel": "188.7",
-          "liveStorage": "0.646",
-          "storagePercentage": "55.69",
+          "date": "10.08.2026",
+          "waterLevel": "190.00",
+          "liveStorage": "0.797",
+          "storagePercentage": "68.71",
           "spillwayRelease": "0.00"
         }
       ]
@@ -93,7 +93,7 @@
       "remarks": "All gates are in closed position.",
       "data": [
         {
-          "date": "09.08.2026",
+          "date": "10.08.2026",
           "waterLevel": "2355.16",
           "liveStorage": "732.710",
           "storagePercentage": "50.20",
@@ -118,10 +118,10 @@
       "remarks": "All gates are in closed condition",
       "data": [
         {
-          "date": "09.08.2026",
+          "date": "10.08.2026",
           "waterLevel": "1570.6",
           "liveStorage": "4.89",
-          "storagePercentage": "8.90",
+          "storagePercentage": "8.93",
           "spillwayRelease": "0.00"
         }
       ]
@@ -143,7 +143,7 @@
       "remarks": "All gates are in closed position.",
       "data": [
         {
-          "date": "09.08.2026",
+          "date": "10.08.2026",
           "waterLevel": "1196.73",
           "liveStorage": "13.0353",
           "storagePercentage": "26.16",
@@ -168,7 +168,7 @@
       "remarks": "All gates are in closed position.",
       "data": [
         {
-          "date": "09.08.2026",
+          "date": "10.08.2026",
           "waterLevel": "700.75",
           "liveStorage": "31.6691",
           "storagePercentage": "66.81",
@@ -193,7 +193,7 @@
       "remarks": "Sluice discharge = 0.00 MCM. All gates are closed",
       "data": [
         {
-          "date": "09.08.2026",
+          "date": "10.08.2026",
           "waterLevel": "1749.65",
           "liveStorage": "2.54",
           "storagePercentage": "33.20",
@@ -218,7 +218,7 @@
       "remarks": "Radial gate opening: #1, 2,3,4,5-15 cm each .",
       "data": [
         {
-          "date": "09.08.2026",
+          "date": "10.08.2026",
           "waterLevel": "456.25",
           "liveStorage": "6.251",
           "storagePercentage": "97.22",
@@ -243,7 +243,7 @@
       "remarks": "All gates are in closed position (status at 07.00 AM)",
       "data": [
         {
-          "date": "09.08.2026",
+          "date": "10.08.2026",
           "waterLevel": "747.90",
           "liveStorage": "1.06",
           "storagePercentage": "20.03",
@@ -268,7 +268,7 @@
       "remarks": "Upper vent- 1 &3-20 cm",
       "data": [
         {
-          "date": "09.08.2026",
+          "date": "10.08.2026",
           "waterLevel": "252.8",
           "liveStorage": "4.46",
           "storagePercentage": "98.11",
@@ -293,7 +293,7 @@
       "remarks": "All gates are in closed position (status at 07.00 AM)",
       "data": [
         {
-          "date": "09.08.2026",
+          "date": "10.08.2026",
           "waterLevel": "820.60",
           "liveStorage": "0.20",
           "storagePercentage": "26.21",
@@ -318,7 +318,7 @@
       "remarks": "All gates are in closed position.",
       "data": [
         {
-          "date": "09.08.2026",
+          "date": "10.08.2026",
           "waterLevel": "152.26",
           "liveStorage": "567.682",
           "storagePercentage": "55.78",
@@ -340,10 +340,10 @@
       "redLevel": "2661.00",
       "latitude": 10.3178,
       "longitude": 76.7342,
-      "remarks": "All radial gates are in fully closed condition. 4 pm",
+      "remarks": "All radial gates are in fully closed condition.",
       "data": [
         {
-          "date": "09.08.2026",
+          "date": "10.08.2026",
           "waterLevel": "2636.6",
           "liveStorage": "86.23",
           "storagePercentage": "57.84",
@@ -368,11 +368,11 @@
       "remarks": "All crest gates in fully opened condition and all Sluice gate are in closed condition.",
       "data": [
         {
-          "date": "09.08.2026",
+          "date": "10.08.2026",
           "waterLevel": "419.95",
           "liveStorage": "19.63",
           "storagePercentage": "64.79",
-          "spillwayRelease": "61.12"
+          "spillwayRelease": "58.33"
         }
       ]
     },
@@ -381,8 +381,8 @@
       "name": "Banasurasagar",
       "officialName": "BANASURASAGAR",
       "district": "Wayanad",
-      "MWL": "775.60",
-      "FRL": "775.60",
+      "MWL": "770",
+      "FRL": "770",
       "liveStorageAtFRL": "201.00",
       "ruleLevel": "774.00",
       "blueLevel": "772.50",
@@ -393,7 +393,7 @@
       "remarks": "All gates are in closed condition",
       "data": [
         {
-          "date": "09.08.2026",
+          "date": "10.08.2026",
           "waterLevel": "770",
           "liveStorage": "134.55",
           "storagePercentage": "66.94",
@@ -402,6 +402,6 @@
       ]
     }
   ],
-  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/08/10-pm-KSEB-Site.pdf",
-  "scraped_at": "2026-08-10T00:01:01.477353+05:30"
+  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/08/1-am-KSEB-Site-1.pdf",
+  "scraped_at": "2026-08-10T02:55:10.089438+05:30"
 }
