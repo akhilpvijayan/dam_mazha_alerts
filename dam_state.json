@@ -69,9 +69,9 @@
       "data": [
         {
           "date": "10.08.2026",
-          "waterLevel": "190.00",
-          "liveStorage": "0.797",
-          "storagePercentage": "68.71",
+          "waterLevel": "189.00",
+          "liveStorage": "0.682",
+          "storagePercentage": "58.79",
           "spillwayRelease": "0.00"
         }
       ]
@@ -119,9 +119,9 @@
       "data": [
         {
           "date": "10.08.2026",
-          "waterLevel": "1570.6",
-          "liveStorage": "4.89",
-          "storagePercentage": "8.93",
+          "waterLevel": "1570.7",
+          "liveStorage": "4.99",
+          "storagePercentage": "9.11",
           "spillwayRelease": "0.00"
         }
       ]
@@ -269,10 +269,10 @@
       "data": [
         {
           "date": "10.08.2026",
-          "waterLevel": "252.8",
-          "liveStorage": "4.46",
-          "storagePercentage": "98.11",
-          "spillwayRelease": "64.00"
+          "waterLevel": "253.00",
+          "liveStorage": "4.55",
+          "storagePercentage": "100.00",
+          "spillwayRelease": "32.00"
         }
       ]
     },
@@ -369,10 +369,35 @@
       "data": [
         {
           "date": "10.08.2026",
-          "waterLevel": "419.95",
-          "liveStorage": "19.63",
-          "storagePercentage": "64.79",
-          "spillwayRelease": "58.33"
+          "waterLevel": "419.90",
+          "liveStorage": "19.50",
+          "storagePercentage": "64.36",
+          "spillwayRelease": "50.56"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Kuttiyadi",
+      "officialName": "KUTTIYADI",
+      "district": "Kozhikkode",
+      "MWL": "758.04",
+      "FRL": "758.04",
+      "liveStorageAtFRL": "33.98",
+      "ruleLevel": "",
+      "blueLevel": "755.50",
+      "orangeLevel": "756.50",
+      "redLevel": "757.50",
+      "latitude": 11.551,
+      "longitude": 75.925,
+      "remarks": "Both gates fully closed.",
+      "data": [
+        {
+          "date": "10.08.2026",
+          "waterLevel": "755.97",
+          "liveStorage": "28.7997",
+          "storagePercentage": "84.75",
+          "spillwayRelease": ""
         }
       ]
     },
@@ -402,6 +427,6 @@
       ]
     }
   ],
-  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/08/1-am-KSEB-Site-1.pdf",
-  "scraped_at": "2026-08-10T02:55:10.089438+05:30"
+  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/08/4-am-KSEB-Site-1.pdf",
+  "scraped_at": "2026-08-10T06:45:17.232260+05:30"
 }
