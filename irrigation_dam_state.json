@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10.08.2026",
+  "lastUpdate": "11.08.2026",
   "reservoirs": [
     {
       "id": "1",
@@ -12,15 +12,15 @@
       "redLevel": "84.4",
       "latitude": 8.4029,
       "longitude": 77.1494,
-      "remarks": "4/4 shutters opened @ 10 cm each. Outflow for drinking water.",
+      "remarks": "4/4 shutters opened @10cm each. Outflow for drinking water.",
       "data": [
         {
-          "date": "10.08.2026",
-          "waterLevel": "83.80",
+          "date": "11.08.2026",
+          "waterLevel": "83.78",
           "grossStorage": "97.35",
-          "todayStorage": "89.11",
+          "todayStorage": "88.93",
           "storagePercentage": "91",
-          "outflow": "22.06"
+          "outflow": "27.67"
         }
       ]
     },
@@ -35,38 +35,15 @@
       "redLevel": "115.45",
       "latitude": 9.1319,
       "longitude": 76.8494,
-      "remarks": "Outflow for power generation, URL - 106.79 m",
+      "remarks": "Outflow for power generation, URL - 107.56 m",
       "data": [
         {
-          "date": "10.08.2026",
-          "waterLevel": "105.24",
+          "date": "11.08.2026",
+          "waterLevel": "105.41",
           "grossStorage": "504.92",
-          "todayStorage": "284.80",
-          "storagePercentage": "55",
-          "outflow": "35.16"
-        }
-      ]
-    },
-    {
-      "id": "3",
-      "name": "Maniyar",
-      "officialName": "Maniyar (Barrage)",
-      "district": "Pathanamthitta",
-      "FRL": "34.62",
-      "blueLevel": "",
-      "orangeLevel": "",
-      "redLevel": "",
-      "latitude": 9.3372,
-      "longitude": 76.9328,
-      "remarks": "5/5 shutters opened @ 450 cm each",
-      "data": [
-        {
-          "date": "10.08.2026",
-          "waterLevel": "29.26",
-          "grossStorage": "8.80",
-          "todayStorage": "7.97",
-          "storagePercentage": "48",
-          "outflow": ""
+          "todayStorage": "288.20",
+          "storagePercentage": "56",
+          "outflow": "35.50"
         }
       ]
     },
@@ -81,15 +58,15 @@
       "redLevel": "41.30",
       "latitude": 9.7194,
       "longitude": 76.8756,
-      "remarks": "1 5 / 0 6 c s m pi , l lw Ou ay tf l s o h w u t f t o e r r D o r p in e k n i e ng d W @ a 10 t 0 e c r, m O , u 1 t / f 6 lo s w p i f l o lw r a P y o s w h e u r t t g e e r n e o r p a e t n io e n d . @",
+      "remarks": "1 @ /6 5 0 s p c i m llw , a O y u t s f h lo u w tt e f r o r o p D e ri n n e k d in g @ 1 W 0 a 0 t e c r m , , O 3 u / t 6 fl o s w p il f lw or a y P o s w h e u r t t g e e r n o e p r e a n ti e o d n .",
       "data": [
         {
-          "date": "10.08.2026",
-          "waterLevel": "39.76",
+          "date": "11.08.2026",
+          "waterLevel": "39.62",
           "grossStorage": "37.00",
-          "todayStorage": "29.32",
-          "storagePercentage": "77",
-          "outflow": "87.88"
+          "todayStorage": "28.84",
+          "storagePercentage": "75",
+          "outflow": "115.79"
         }
       ]
     },
@@ -104,61 +81,15 @@
       "redLevel": "",
       "latitude": 10.1667,
       "longitude": 76.5833,
-      "remarks": "14/15 shutters opened @ 700 cm each",
+      "remarks": "14/15 shutters opened @700 cm each",
       "data": [
         {
-          "date": "10.08.2026",
-          "waterLevel": "27.20",
+          "date": "11.08.2026",
+          "waterLevel": "27.00",
           "grossStorage": "169.79",
           "todayStorage": "",
           "storagePercentage": "",
-          "outflow": "1036.00"
-        }
-      ]
-    },
-    {
-      "id": "6",
-      "name": "Vazhani",
-      "officialName": "Vazhani",
-      "district": "Thrissur",
-      "FRL": "62.48",
-      "blueLevel": "60.98",
-      "orangeLevel": "61.48",
-      "redLevel": "61.88",
-      "latitude": 10.5833,
-      "longitude": 76.2667,
-      "remarks": "",
-      "data": [
-        {
-          "date": "10.08.2026",
-          "waterLevel": "56.18",
-          "grossStorage": "18.12",
-          "todayStorage": "10.72",
-          "storagePercentage": "56",
-          "outflow": "0.00"
-        }
-      ]
-    },
-    {
-      "id": "7",
-      "name": "Chimoni",
-      "officialName": "Chimoni",
-      "district": "Thrissur",
-      "FRL": "76.40",
-      "blueLevel": "74.9",
-      "orangeLevel": "75.4",
-      "redLevel": "75.9",
-      "latitude": 10.5333,
-      "longitude": 76.4167,
-      "remarks": "",
-      "data": [
-        {
-          "date": "10.08.2026",
-          "waterLevel": "71.03",
-          "grossStorage": "151.55",
-          "todayStorage": "112.73",
-          "storagePercentage": "74",
-          "outflow": "0.00"
+          "outflow": "901.00"
         }
       ]
     },
@@ -176,11 +107,11 @@
       "remarks": "Outflow for Drinking Water",
       "data": [
         {
-          "date": "10.08.2026",
-          "waterLevel": "75.50",
+          "date": "11.08.2026",
+          "waterLevel": "75.62",
           "grossStorage": "94.95",
-          "todayStorage": "51.07",
-          "storagePercentage": "53",
+          "todayStorage": "52.11",
+          "storagePercentage": "55",
           "outflow": "0.69"
         }
       ]
@@ -199,8 +130,8 @@
       "remarks": "N op o e a ra le t r io t n le i v s e d ls o n p e re b s y e n o t p , e a r s a t t i h n e g r e ri v is e r n o sl u s i p c i e ll . way and reservoir",
       "data": [
         {
-          "date": "10.08.2026",
-          "waterLevel": "871.57",
+          "date": "11.08.2026",
+          "waterLevel": "871.16",
           "grossStorage": "25.6",
           "todayStorage": "15.11",
           "storagePercentage": "44",
@@ -219,61 +150,15 @@
       "redLevel": "97.40",
       "latitude": 10.8333,
       "longitude": 76.5833,
-      "remarks": "3 cm /3 spillway shutter opened @ 10 cm each, River sluice opened @ 2",
+      "remarks": "3/3 spillway shutter opened @5 cm each, River sluice opened @2cm",
       "data": [
         {
-          "date": "10.08.2026",
-          "waterLevel": "95.20",
+          "date": "11.08.2026",
+          "waterLevel": "95.15",
           "grossStorage": "70.83",
-          "todayStorage": "57.98",
+          "todayStorage": "57.70",
           "storagePercentage": "81",
-          "outflow": "14.56"
-        }
-      ]
-    },
-    {
-      "id": "11",
-      "name": "Meenkara",
-      "officialName": "Meenkara",
-      "district": "Palakkad",
-      "FRL": "156.36",
-      "blueLevel": "154.90",
-      "orangeLevel": "155.36",
-      "redLevel": "156.06",
-      "latitude": 10.85,
-      "longitude": 76.6833,
-      "remarks": "",
-      "data": [
-        {
-          "date": "10.08.2026",
-          "waterLevel": "151.91",
-          "grossStorage": "11.33",
-          "todayStorage": "3.12",
-          "storagePercentage": "21",
-          "outflow": "0.00"
-        }
-      ]
-    },
-    {
-      "id": "12",
-      "name": "Walayar",
-      "officialName": "Walayar",
-      "district": "Palakkad",
-      "FRL": "203.00",
-      "blueLevel": "201.50",
-      "orangeLevel": "202.00",
-      "redLevel": "202.30",
-      "latitude": 10.85,
-      "longitude": 76.75,
-      "remarks": "",
-      "data": [
-        {
-          "date": "10.08.2026",
-          "waterLevel": "196.86",
-          "grossStorage": "18.40",
-          "todayStorage": "6.13",
-          "storagePercentage": "19",
-          "outflow": "0.00"
+          "outflow": "7.48"
         }
       ]
     },
@@ -288,13 +173,13 @@
       "redLevel": "114.45",
       "latitude": 10.8283,
       "longitude": 76.6825,
-      "remarks": "Outflow for drinking water, URL - 112.72 m",
+      "remarks": "Outflow for drinking water, URL - 113.25 m",
       "data": [
         {
-          "date": "10.08.2026",
-          "waterLevel": "108.05",
+          "date": "11.08.2026",
+          "waterLevel": "108.11",
           "grossStorage": "226.00",
-          "todayStorage": "90.82",
+          "todayStorage": "91.65",
           "storagePercentage": "40",
           "outflow": "1.24"
         }
@@ -314,35 +199,12 @@
       "remarks": "Outflow for drinking water",
       "data": [
         {
-          "date": "10.08.2026",
-          "waterLevel": "101.46",
+          "date": "11.08.2026",
+          "waterLevel": "101.57",
           "grossStorage": "50.91",
-          "todayStorage": "30.16",
+          "todayStorage": "30.49",
           "storagePercentage": "53",
           "outflow": "0.24"
-        }
-      ]
-    },
-    {
-      "id": "15",
-      "name": "Chulliyar",
-      "officialName": "Chulliyar",
-      "district": "Palakkad",
-      "FRL": "154.08",
-      "blueLevel": "152.50",
-      "orangeLevel": "153.08",
-      "redLevel": "153.70",
-      "latitude": 10.7333,
-      "longitude": 76.65,
-      "remarks": "",
-      "data": [
-        {
-          "date": "10.08.2026",
-          "waterLevel": "145.39",
-          "grossStorage": "13.70",
-          "todayStorage": "3.03",
-          "storagePercentage": "16",
-          "outflow": "0.00"
         }
       ]
     },
@@ -357,15 +219,15 @@
       "redLevel": "77.30",
       "latitude": 10.7667,
       "longitude": 76.55,
-      "remarks": "6/6 spillway shutter opened @ 20 cm each",
+      "remarks": "6/6 spillway shutter opened @20 cm each",
       "data": [
         {
-          "date": "10.08.2026",
-          "waterLevel": "76.58",
+          "date": "11.08.2026",
+          "waterLevel": "76.48",
           "grossStorage": "25.49",
-          "todayStorage": "20.21",
-          "storagePercentage": "79",
-          "outflow": "14.33"
+          "todayStorage": "19.88",
+          "storagePercentage": "78",
+          "outflow": "12.22"
         }
       ]
     },
@@ -380,15 +242,15 @@
       "redLevel": "",
       "latitude": 10.9667,
       "longitude": 76.6833,
-      "remarks": "1/19 shutters opened @ 10 cm",
+      "remarks": "1/19 shutters opened @10 cm",
       "data": [
         {
-          "date": "10.08.2026",
-          "waterLevel": "181.40",
+          "date": "11.08.2026",
+          "waterLevel": "181.30",
           "grossStorage": "",
           "todayStorage": "",
           "storagePercentage": "",
-          "outflow": "3.11"
+          "outflow": "2.38"
         }
       ]
     },
@@ -406,12 +268,12 @@
       "remarks": "4 p / o 4 w e s r p i g lw e a n y e r s a h ti u o t n t . ers are fully opened. Outflow for drinking water &",
       "data": [
         {
-          "date": "10.08.2026",
-          "waterLevel": "38.82",
+          "date": "11.08.2026",
+          "waterLevel": "38.76",
           "grossStorage": "105.69",
-          "todayStorage": "71.74",
-          "storagePercentage": "57",
-          "outflow": "58.38"
+          "todayStorage": "71.04",
+          "storagePercentage": "56",
+          "outflow": "51.88"
         }
       ]
     },
@@ -426,15 +288,15 @@
       "redLevel": "762.00",
       "latitude": 11.6833,
       "longitude": 76.1167,
-      "remarks": "3/3 spillway shutter opened @ 10 cm each, Outflow for drinking water",
+      "remarks": "3/3 spillway shutter opened @10 cm each, Outflow for drinking water",
       "data": [
         {
-          "date": "10.08.2026",
-          "waterLevel": "757.15",
+          "date": "11.08.2026",
+          "waterLevel": "757.10",
           "grossStorage": "76.50",
-          "todayStorage": "35.21",
-          "storagePercentage": "43",
-          "outflow": "3.97"
+          "todayStorage": "34.90",
+          "storagePercentage": "42",
+          "outflow": "3.01"
         }
       ]
     },
@@ -449,19 +311,19 @@
       "redLevel": "",
       "latitude": 11.9833,
       "longitude": 75.6,
-      "remarks": "12/16 shutters opened @ 500 cm each, 3/16 shutters opened @ 450 cm each,",
+      "remarks": "12/16 shutters opened @500 cm each, 3/16 shutters opened @450 cm each",
       "data": [
         {
-          "date": "10.08.2026",
-          "waterLevel": "15.69",
+          "date": "11.08.2026",
+          "waterLevel": "15.41",
           "grossStorage": "49.08",
-          "todayStorage": "0.99",
+          "todayStorage": "0.82",
           "storagePercentage": "1",
-          "outflow": "464.38"
+          "outflow": "375.00"
         }
       ]
     }
   ],
-  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/08/IRR-SITE-6.pdf",
-  "scraped_at": "2026-08-11T09:45:26.712144+05:30"
+  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/08/11-am-Irr-Site.pdf",
+  "scraped_at": "2026-08-11T12:26:30.044611+05:30"
 }
