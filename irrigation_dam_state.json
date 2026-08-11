@@ -48,6 +48,29 @@
       ]
     },
     {
+      "id": "3",
+      "name": "Maniyar",
+      "officialName": "Maniyar (Barrage)",
+      "district": "Pathanamthitta",
+      "FRL": "34.62",
+      "blueLevel": "",
+      "orangeLevel": "",
+      "redLevel": "",
+      "latitude": 9.3372,
+      "longitude": 76.9328,
+      "remarks": "5/5 shutters opened @450 cm each",
+      "data": [
+        {
+          "date": "11.08.2026",
+          "waterLevel": "29.26",
+          "grossStorage": "8.80",
+          "todayStorage": "7.97",
+          "storagePercentage": "48",
+          "outflow": ""
+        }
+      ]
+    },
+    {
       "id": "4",
       "name": "Malankara",
       "officialName": "Malankara",
@@ -90,6 +113,52 @@
           "todayStorage": "",
           "storagePercentage": "",
           "outflow": "901.00"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Vazhani",
+      "officialName": "Vazhani",
+      "district": "Thrissur",
+      "FRL": "62.48",
+      "blueLevel": "60.98",
+      "orangeLevel": "61.48",
+      "redLevel": "61.88",
+      "latitude": 10.5833,
+      "longitude": 76.2667,
+      "remarks": "",
+      "data": [
+        {
+          "date": "11.08.2026",
+          "waterLevel": "56.28",
+          "grossStorage": "18.12",
+          "todayStorage": "10.85",
+          "storagePercentage": "56",
+          "outflow": "0.00"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Chimoni",
+      "officialName": "Chimoni",
+      "district": "Thrissur",
+      "FRL": "76.40",
+      "blueLevel": "74.9",
+      "orangeLevel": "75.4",
+      "redLevel": "75.9",
+      "latitude": 10.5333,
+      "longitude": 76.4167,
+      "remarks": "",
+      "data": [
+        {
+          "date": "11.08.2026",
+          "waterLevel": "71.22",
+          "grossStorage": "151.55",
+          "todayStorage": "114.15",
+          "storagePercentage": "75",
+          "outflow": "0.00"
         }
       ]
     },
@@ -163,6 +232,52 @@
       ]
     },
     {
+      "id": "11",
+      "name": "Meenkara",
+      "officialName": "Meenkara",
+      "district": "Palakkad",
+      "FRL": "156.36",
+      "blueLevel": "154.90",
+      "orangeLevel": "155.36",
+      "redLevel": "156.06",
+      "latitude": 10.85,
+      "longitude": 76.6833,
+      "remarks": "",
+      "data": [
+        {
+          "date": "11.08.2026",
+          "waterLevel": "151.97",
+          "grossStorage": "11.33",
+          "todayStorage": "3.19",
+          "storagePercentage": "21",
+          "outflow": "0.00"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Walayar",
+      "officialName": "Walayar",
+      "district": "Palakkad",
+      "FRL": "203.00",
+      "blueLevel": "201.50",
+      "orangeLevel": "202.00",
+      "redLevel": "202.30",
+      "latitude": 10.85,
+      "longitude": 76.75,
+      "remarks": "",
+      "data": [
+        {
+          "date": "11.08.2026",
+          "waterLevel": "196.86",
+          "grossStorage": "18.40",
+          "todayStorage": "6.13",
+          "storagePercentage": "19",
+          "outflow": "0.00"
+        }
+      ]
+    },
+    {
       "id": "13",
       "name": "Malampuzha",
       "officialName": "Malampuzha",
@@ -205,6 +320,29 @@
           "todayStorage": "30.49",
           "storagePercentage": "53",
           "outflow": "0.24"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Chulliyar",
+      "officialName": "Chulliyar",
+      "district": "Palakkad",
+      "FRL": "154.08",
+      "blueLevel": "152.50",
+      "orangeLevel": "153.08",
+      "redLevel": "153.70",
+      "latitude": 10.7333,
+      "longitude": 76.65,
+      "remarks": "",
+      "data": [
+        {
+          "date": "11.08.2026",
+          "waterLevel": "145.39",
+          "grossStorage": "13.70",
+          "todayStorage": "3.03",
+          "storagePercentage": "16",
+          "outflow": "0.00"
         }
       ]
     },
@@ -324,6 +462,6 @@
       ]
     }
   ],
-  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/08/11-am-Irr-Site.pdf",
-  "scraped_at": "2026-08-11T12:26:30.044611+05:30"
+  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/08/11-am-Irr-Site-1.pdf",
+  "scraped_at": "2026-08-11T15:25:22.523901+05:30"
 }
