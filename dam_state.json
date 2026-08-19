@@ -365,7 +365,7 @@
       "redLevel": "423.00",
       "latitude": 10.3152,
       "longitude": 76.6344,
-      "remarks": "All crest gates in fully opened condition and",
+      "remarks": "All crest gates in fully opened condition and All Sluice gates are in closed condition.",
       "data": [
         {
           "date": "19.08.2026",
@@ -390,7 +390,7 @@
       "redLevel": "757.50",
       "latitude": 11.551,
       "longitude": 75.925,
-      "remarks": "All Sluice gates are in closed condition.",
+      "remarks": "All spillway gates are in closed position",
       "data": [
         {
           "date": "19.08.2026",
@@ -427,6 +427,6 @@
       ]
     }
   ],
-  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/08/KSEB-SITE-5.pdf",
-  "scraped_at": "2026-08-19T12:03:01.413885+05:30"
+  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/08/KSEB-SITE-6.pdf",
+  "scraped_at": "2026-08-19T14:56:40.364305+05:30"
 }
