@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28.08.2026",
+  "lastUpdate": "29.08.2026",
   "dams": [
     {
       "id": "1",
@@ -18,10 +18,10 @@
       "remarks": "All gates are in closed position",
       "data": [
         {
-          "date": "28.08.2026",
-          "waterLevel": "972.40",
-          "liveStorage": "309.70",
-          "storagePercentage": "69.36",
+          "date": "29.08.2026",
+          "waterLevel": "972.55",
+          "liveStorage": "311.65",
+          "storagePercentage": "69.80",
           "spillwayRelease": ""
         }
       ]
@@ -43,7 +43,7 @@
       "remarks": "",
       "data": [
         {
-          "date": "28.08.2026",
+          "date": "29.08.2026",
           "waterLevel": "974.40",
           "liveStorage": "11.23",
           "storagePercentage": "36.05",
@@ -68,11 +68,11 @@
       "remarks": "All gates are in closed condition",
       "data": [
         {
-          "date": "28.08.2026",
-          "waterLevel": "188.80",
+          "date": "29.08.2026",
+          "waterLevel": "188.30",
           "liveStorage": "1.16",
-          "storagePercentage": "0.660",
-          "spillwayRelease": "56.72"
+          "storagePercentage": "0.600",
+          "spillwayRelease": "51.81"
         }
       ]
     },
@@ -93,10 +93,10 @@
       "remarks": "",
       "data": [
         {
-          "date": "28.08.2026",
-          "waterLevel": "2367.60",
-          "liveStorage": "900.08",
-          "storagePercentage": "61.67",
+          "date": "29.08.2026",
+          "waterLevel": "2368.24",
+          "liveStorage": "909.18",
+          "storagePercentage": "62.29",
           "spillwayRelease": ""
         }
       ]
@@ -118,10 +118,10 @@
       "remarks": "Sluice discharge =0.00 MCM",
       "data": [
         {
-          "date": "28.08.2026",
-          "waterLevel": "1574.75",
-          "liveStorage": "9.04",
-          "storagePercentage": "16.51",
+          "date": "29.08.2026",
+          "waterLevel": "1575.00",
+          "liveStorage": "9.29",
+          "storagePercentage": "16.96",
           "spillwayRelease": ""
         }
       ]
@@ -140,13 +140,13 @@
       "redLevel": "1207.02",
       "latitude": 10.009515341318457,
       "longitude": 77.20724298186308,
-      "remarks": "(Sluice gate fully closed @ 4.00 pm on 05.06.'26)",
+      "remarks": "(Sluice gate fully closed @ 4.00 pm on 05.06.26)",
       "data": [
         {
-          "date": "28.08.2026",
-          "waterLevel": "1197.39",
-          "liveStorage": "14.60",
-          "storagePercentage": "29.30",
+          "date": "29.08.2026",
+          "waterLevel": "1197.41",
+          "liveStorage": "14.66",
+          "storagePercentage": "29.43",
           "spillwayRelease": ""
         }
       ]
@@ -168,10 +168,10 @@
       "remarks": "All radial gates are in closed position",
       "data": [
         {
-          "date": "28.08.2026",
-          "waterLevel": "698.75",
-          "liveStorage": "28.11",
-          "storagePercentage": "59.31",
+          "date": "29.08.2026",
+          "waterLevel": "698.95",
+          "liveStorage": "28.43",
+          "storagePercentage": "59.98",
           "spillwayRelease": ""
         }
       ]
@@ -193,10 +193,10 @@
       "remarks": "Sluice discharge = 0.00 MCM. All gates are closed",
       "data": [
         {
-          "date": "28.08.2026",
-          "waterLevel": "1751.00",
-          "liveStorage": "3.08",
-          "storagePercentage": "40.26",
+          "date": "29.08.2026",
+          "waterLevel": "1751.05",
+          "liveStorage": "3.10",
+          "storagePercentage": "40.52",
           "spillwayRelease": ""
         }
       ]
@@ -215,14 +215,14 @@
       "redLevel": "455",
       "latitude": 9.98,
       "longitude": 77.001389,
-      "remarks": "Gate No 3 -10 cm opened",
+      "remarks": "Gate No. 1 to 5 - closed",
       "data": [
         {
-          "date": "28.08.2026",
-          "waterLevel": "455.75",
-          "liveStorage": "5.930",
-          "storagePercentage": "92.29",
-          "spillwayRelease": "10.00"
+          "date": "29.08.2026",
+          "waterLevel": "455.25",
+          "liveStorage": "5.620",
+          "storagePercentage": "87.36",
+          "spillwayRelease": "0.94"
         }
       ]
     },
@@ -243,7 +243,7 @@
       "remarks": "All gates are in closed position.",
       "data": [
         {
-          "date": "28.08.2026",
+          "date": "29.08.2026",
           "waterLevel": "747.50",
           "liveStorage": "0.91",
           "storagePercentage": "17.13",
@@ -265,13 +265,13 @@
       "redLevel": "252.00",
       "latitude": 9.962,
       "longitude": 76.9568,
-      "remarks": "All spillway gates are in closed position",
+      "remarks": "All Spillway gates are in closed position",
       "data": [
         {
-          "date": "28.08.2026",
-          "waterLevel": "247.40",
-          "liveStorage": "2.32",
-          "storagePercentage": "51.08",
+          "date": "29.08.2026",
+          "waterLevel": "249.10",
+          "liveStorage": "2.94",
+          "storagePercentage": "64.59",
           "spillwayRelease": ""
         }
       ]
@@ -293,10 +293,10 @@
       "remarks": "All gates are in closed position.",
       "data": [
         {
-          "date": "28.08.2026",
-          "waterLevel": "820.30",
+          "date": "29.08.2026",
+          "waterLevel": "820.20",
           "liveStorage": "0.19",
-          "storagePercentage": "25.54",
+          "storagePercentage": "25.07",
           "spillwayRelease": ""
         }
       ]
@@ -318,10 +318,10 @@
       "remarks": "All gates are in closed position",
       "data": [
         {
-          "date": "28.08.2026",
-          "waterLevel": "157.40",
-          "liveStorage": "690.00",
-          "storagePercentage": "67.79",
+          "date": "29.08.2026",
+          "waterLevel": "157.66",
+          "liveStorage": "696.50",
+          "storagePercentage": "68.43",
           "spillwayRelease": ""
         }
       ]
@@ -343,10 +343,10 @@
       "remarks": "",
       "data": [
         {
-          "date": "28.08.2026",
-          "waterLevel": "2652.40",
-          "liveStorage": "121.12",
-          "storagePercentage": "81.24",
+          "date": "29.08.2026",
+          "waterLevel": "2653.00",
+          "liveStorage": "122.59",
+          "storagePercentage": "82.23",
           "spillwayRelease": ""
         }
       ]
@@ -368,11 +368,11 @@
       "remarks": "All crest gates in fully opened condition and All Sluice gates are in closed condition.",
       "data": [
         {
-          "date": "28.08.2026",
-          "waterLevel": "419.75",
-          "liveStorage": "19.130",
-          "storagePercentage": "63.14",
-          "spillwayRelease": "29.17"
+          "date": "29.08.2026",
+          "waterLevel": "419.70",
+          "liveStorage": "19.000",
+          "storagePercentage": "62.71",
+          "spillwayRelease": "23.14"
         }
       ]
     },
@@ -393,10 +393,10 @@
       "remarks": "All spillway gates are in closed position",
       "data": [
         {
-          "date": "28.08.2026",
-          "waterLevel": "750.72",
-          "liveStorage": "17.23",
-          "storagePercentage": "50.72",
+          "date": "29.08.2026",
+          "waterLevel": "750.48",
+          "liveStorage": "16.75",
+          "storagePercentage": "49.28",
           "spillwayRelease": ""
         }
       ]
@@ -418,15 +418,15 @@
       "remarks": "Tunnel fully closed on 29.06.'26 at 11.15 am. Tunnel discharge- Nil",
       "data": [
         {
-          "date": "28.08.2026",
-          "waterLevel": "772.80",
-          "liveStorage": "167.35",
-          "storagePercentage": "83.26",
+          "date": "29.08.2026",
+          "waterLevel": "772.95",
+          "liveStorage": "168.95",
+          "storagePercentage": "84.05",
           "spillwayRelease": ""
         }
       ]
     }
   ],
-  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/08/KSEB-SITE-15.pdf",
-  "scraped_at": "2026-08-29T10:41:33.642655+05:30"
+  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/08/KSEB-SITE-16.pdf",
+  "scraped_at": "2026-08-29T17:37:09.065130+05:30"
 }
