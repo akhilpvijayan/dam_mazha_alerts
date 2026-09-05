@@ -16,9 +16,9 @@
       "data": [
         {
           "date": "05.09.2026",
-          "waterLevel": "84.01",
+          "waterLevel": "84.02",
           "grossStorage": "97.35",
-          "todayStorage": "90.93",
+          "todayStorage": "91.02",
           "storagePercentage": "93",
           "outflow": "1.83"
         }
@@ -39,11 +39,11 @@
       "data": [
         {
           "date": "05.09.2026",
-          "waterLevel": "105.83",
+          "waterLevel": "105.71",
           "grossStorage": "504.92",
-          "todayStorage": "296.60",
+          "todayStorage": "294.20",
           "storagePercentage": "57",
-          "outflow": "36.21"
+          "outflow": "36.07"
         }
       ]
     },
@@ -85,11 +85,11 @@
       "data": [
         {
           "date": "05.09.2026",
-          "waterLevel": "41.06",
+          "waterLevel": "41.22",
           "grossStorage": "37.00",
-          "todayStorage": "33.44",
-          "storagePercentage": "89",
-          "outflow": "48.68"
+          "todayStorage": "33.98",
+          "storagePercentage": "91",
+          "outflow": "46.36"
         }
       ]
     },
@@ -108,11 +108,11 @@
       "data": [
         {
           "date": "05.09.2026",
-          "waterLevel": "28.50",
+          "waterLevel": "28.30",
           "grossStorage": "169.79",
           "todayStorage": "",
           "storagePercentage": "",
-          "outflow": "297.00"
+          "outflow": "282.00"
         }
       ]
     },
@@ -131,9 +131,9 @@
       "data": [
         {
           "date": "05.09.2026",
-          "waterLevel": "58.64",
+          "waterLevel": "58.68",
           "grossStorage": "18.12",
-          "todayStorage": "13.97",
+          "todayStorage": "14.03",
           "storagePercentage": "75",
           "outflow": "0.00"
         }
@@ -154,9 +154,9 @@
       "data": [
         {
           "date": "05.09.2026",
-          "waterLevel": "73.17",
+          "waterLevel": "73.20",
           "grossStorage": "151.55",
-          "todayStorage": "126.36",
+          "todayStorage": "126.60",
           "storagePercentage": "83",
           "outflow": "0.00"
         }
@@ -177,11 +177,11 @@
       "data": [
         {
           "date": "05.09.2026",
-          "waterLevel": "77.57",
+          "waterLevel": "77.56",
           "grossStorage": "94.95",
-          "todayStorage": "72.80",
+          "todayStorage": "72.68",
           "storagePercentage": "76",
-          "outflow": "7.29"
+          "outflow": "4.33"
         }
       ]
     },
@@ -200,9 +200,9 @@
       "data": [
         {
           "date": "05.09.2026",
-          "waterLevel": "872.43",
+          "waterLevel": "872.42",
           "grossStorage": "25.6",
-          "todayStorage": "16.32",
+          "todayStorage": "16.30",
           "storagePercentage": "50",
           "outflow": "0.67"
         }
@@ -223,11 +223,11 @@
       "data": [
         {
           "date": "05.09.2026",
-          "waterLevel": "96.49",
+          "waterLevel": "96.53",
           "grossStorage": "70.83",
-          "todayStorage": "65.19",
+          "todayStorage": "65.41",
           "storagePercentage": "92",
-          "outflow": "5.16"
+          "outflow": "5.17"
         }
       ]
     },
@@ -292,9 +292,9 @@
       "data": [
         {
           "date": "05.09.2026",
-          "waterLevel": "109.45",
+          "waterLevel": "109.47",
           "grossStorage": "226.00",
-          "todayStorage": "111.78",
+          "todayStorage": "112.11",
           "storagePercentage": "49",
           "outflow": "1.24"
         }
@@ -315,9 +315,9 @@
       "data": [
         {
           "date": "05.09.2026",
-          "waterLevel": "103.86",
+          "waterLevel": "103.89",
           "grossStorage": "50.91",
-          "todayStorage": "37.34",
+          "todayStorage": "37.43",
           "storagePercentage": "69",
           "outflow": "0.24"
         }
@@ -361,11 +361,11 @@
       "data": [
         {
           "date": "05.09.2026",
-          "waterLevel": "76.91",
+          "waterLevel": "76.94",
           "grossStorage": "25.49",
-          "todayStorage": "21.32",
+          "todayStorage": "21.43",
           "storagePercentage": "84",
-          "outflow": "0.57"
+          "outflow": "0.58"
         }
       ]
     },
@@ -384,11 +384,11 @@
       "data": [
         {
           "date": "05.09.2026",
-          "waterLevel": "181.00",
+          "waterLevel": "181.10",
           "grossStorage": "",
           "todayStorage": "",
           "storagePercentage": "",
-          "outflow": "2.26"
+          "outflow": "2.25"
         }
       ]
     },
@@ -407,11 +407,11 @@
       "data": [
         {
           "date": "05.09.2026",
-          "waterLevel": "37.40",
+          "waterLevel": "37.60",
           "grossStorage": "105.69",
-          "todayStorage": "60.88",
-          "storagePercentage": "47",
-          "outflow": "12.00"
+          "todayStorage": "62.16",
+          "storagePercentage": "49",
+          "outflow": "11.97"
         }
       ]
     },
@@ -434,7 +434,7 @@
           "grossStorage": "76.50",
           "todayStorage": "34.60",
           "storagePercentage": "42",
-          "outflow": "1.26"
+          "outflow": "2.34"
         }
       ]
     },
@@ -453,15 +453,15 @@
       "data": [
         {
           "date": "05.09.2026",
-          "waterLevel": "15.38",
+          "waterLevel": "15.54",
           "grossStorage": "49.08",
-          "todayStorage": "0.81",
+          "todayStorage": "0.89",
           "storagePercentage": "1",
-          "outflow": "151.84"
+          "outflow": "128.68"
         }
       ]
     }
   ],
-  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/09/IRR-SITE-3.pdf",
-  "scraped_at": "2026-09-05T12:48:39.888399+05:30"
+  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/09/IRR-SITE-4.pdf",
+  "scraped_at": "2026-09-05T17:46:50.728824+05:30"
 }
