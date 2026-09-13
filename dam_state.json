@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12.09.2026",
+  "lastUpdate": "13.09.2026",
   "dams": [
     {
       "id": "2",
@@ -18,10 +18,10 @@
       "remarks": "",
       "data": [
         {
-          "date": "12.09.2026",
-          "waterLevel": "972.60",
-          "liveStorage": "9.02",
-          "storagePercentage": "28.96",
+          "date": "13.09.2026",
+          "waterLevel": "972.50",
+          "liveStorage": "8.90",
+          "storagePercentage": "28.57",
           "spillwayRelease": ""
         }
       ]
@@ -43,10 +43,10 @@
       "remarks": "All gates are in closed condition",
       "data": [
         {
-          "date": "12.09.2026",
-          "waterLevel": "187.25",
-          "liveStorage": "0.490",
-          "storagePercentage": "42.50",
+          "date": "13.09.2026",
+          "waterLevel": "186.60",
+          "liveStorage": "0.430",
+          "storagePercentage": "36.64",
           "spillwayRelease": ""
         }
       ]
@@ -68,10 +68,10 @@
       "remarks": "Sluice discharge =0.00MCM",
       "data": [
         {
-          "date": "12.09.2026",
-          "waterLevel": "1577.00",
-          "liveStorage": "11.29",
-          "storagePercentage": "20.61",
+          "date": "13.09.2026",
+          "waterLevel": "1577.15",
+          "liveStorage": "11.44",
+          "storagePercentage": "20.89",
           "spillwayRelease": ""
         }
       ]
@@ -93,10 +93,10 @@
       "remarks": "(Sluice gate fully closed @ 4.00 pm on 05.06.'26)",
       "data": [
         {
-          "date": "12.09.2026",
-          "waterLevel": "1197.92",
-          "liveStorage": "16.29",
-          "storagePercentage": "32.69",
+          "date": "13.09.2026",
+          "waterLevel": "1197.94",
+          "liveStorage": "16.35",
+          "storagePercentage": "32.82",
           "spillwayRelease": ""
         }
       ]
@@ -118,10 +118,10 @@
       "remarks": "All radial gates are in closed position",
       "data": [
         {
-          "date": "12.09.2026",
-          "waterLevel": "693.80",
-          "liveStorage": "20.01",
-          "storagePercentage": "42.21",
+          "date": "13.09.2026",
+          "waterLevel": "693.35",
+          "liveStorage": "19.26",
+          "storagePercentage": "40.64",
           "spillwayRelease": ""
         }
       ]
@@ -143,10 +143,10 @@
       "remarks": "Sluice discharge = 0.00 MCM. All gates are closed",
       "data": [
         {
-          "date": "12.09.2026",
-          "waterLevel": "1752.25",
-          "liveStorage": "3.63",
-          "storagePercentage": "47.39",
+          "date": "13.09.2026",
+          "waterLevel": "1752.30",
+          "liveStorage": "3.65",
+          "storagePercentage": "47.71",
           "spillwayRelease": ""
         }
       ]
@@ -168,10 +168,10 @@
       "remarks": "Gate No. 1 to 5-closed",
       "data": [
         {
-          "date": "12.09.2026",
-          "waterLevel": "452.90",
-          "liveStorage": "4.17",
-          "storagePercentage": "64.82",
+          "date": "13.09.2026",
+          "waterLevel": "452.70",
+          "liveStorage": "4.07",
+          "storagePercentage": "63.23",
           "spillwayRelease": ""
         }
       ]
@@ -193,7 +193,7 @@
       "remarks": "All gates are in closed position.",
       "data": [
         {
-          "date": "12.09.2026",
+          "date": "13.09.2026",
           "waterLevel": "747.20",
           "liveStorage": "0.79",
           "storagePercentage": "14.94",
@@ -218,10 +218,10 @@
       "remarks": "All spillway gates are in closed position",
       "data": [
         {
-          "date": "12.09.2026",
-          "waterLevel": "247.80",
-          "liveStorage": "2.45",
-          "storagePercentage": "53.80",
+          "date": "13.09.2026",
+          "waterLevel": "248.70",
+          "liveStorage": "2.78",
+          "storagePercentage": "61.16",
           "spillwayRelease": ""
         }
       ]
@@ -243,7 +243,7 @@
       "remarks": "All gates are in closed position.",
       "data": [
         {
-          "date": "12.09.2026",
+          "date": "13.09.2026",
           "waterLevel": "819.80",
           "liveStorage": "0.17",
           "storagePercentage": "22.84",
@@ -268,10 +268,10 @@
       "remarks": "All gates are in closed position",
       "data": [
         {
-          "date": "12.09.2026",
-          "waterLevel": "157.76",
-          "liveStorage": "699.00",
-          "storagePercentage": "68.68",
+          "date": "13.09.2026",
+          "waterLevel": "157.69",
+          "liveStorage": "697.25",
+          "storagePercentage": "68.51",
           "spillwayRelease": ""
         }
       ]
@@ -293,10 +293,10 @@
       "remarks": "",
       "data": [
         {
-          "date": "12.09.2026",
-          "waterLevel": "2656.40",
-          "liveStorage": "131.09",
-          "storagePercentage": "87.93",
+          "date": "13.09.2026",
+          "waterLevel": "2656.20",
+          "liveStorage": "130.58",
+          "storagePercentage": "87.59",
           "spillwayRelease": ""
         }
       ]
@@ -318,11 +318,11 @@
       "remarks": "All crest gates in fully opened condition and All Sluice gates are in closed condition.",
       "data": [
         {
-          "date": "12.09.2026",
-          "waterLevel": "415.65",
+          "date": "13.09.2026",
+          "waterLevel": "415.70",
           "liveStorage": "30.3",
-          "storagePercentage": "10.520",
-          "spillwayRelease": "34.72"
+          "storagePercentage": "10.610",
+          "spillwayRelease": "35.02"
         }
       ]
     },
@@ -343,7 +343,7 @@
       "remarks": "All spillway gates are in closed position",
       "data": [
         {
-          "date": "12.09.2026",
+          "date": "13.09.2026",
           "waterLevel": "749.59",
           "liveStorage": "14.98",
           "storagePercentage": "44.07",
@@ -368,15 +368,15 @@
       "remarks": "Control shaft gate Tunnel opened 50% on 29.08.26 at 3.00 pm. Tunnel dischage -0.58 MCM",
       "data": [
         {
-          "date": "12.09.2026",
-          "waterLevel": "772.40",
-          "liveStorage": "162.55",
-          "storagePercentage": "80.87",
+          "date": "13.09.2026",
+          "waterLevel": "772.30",
+          "liveStorage": "161.35",
+          "storagePercentage": "80.27",
           "spillwayRelease": ""
         }
       ]
     }
   ],
-  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/09/KSEB-SITE-9.pdf",
-  "scraped_at": "2026-09-13T13:24:22.092691+05:30"
+  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/09/KSEB-SITE-11.pdf",
+  "scraped_at": "2026-09-13T19:04:51.281740+05:30"
 }
