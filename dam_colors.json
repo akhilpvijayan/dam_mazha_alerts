@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-01T09:06:57.020573+05:30",
-  "lastUpdate": "30.09.2026",
+  "scraped_at": "2026-10-01T17:44:26.045300+05:30",
+  "lastUpdate": "01.10.2026",
   "colors": {
     "Pamba": "green",
     "Moozhiyar": "green",
@@ -10,6 +10,12 @@
     "Kundala": "green",
     "Kallarkutty": "green",
     "Erattayar": "green",
-    "Lower Periyar": "green"
+    "Lower Periyar": "green",
+    "Kallar": "green",
+    "Idamalayar": "green",
+    "Sholayar": "green",
+    "Poringalkuthu": "green",
+    "Kuttiyadi": "green",
+    "Banasurasagar": "green"
   }
 }
