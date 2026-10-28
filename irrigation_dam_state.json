@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27.10.2026",
+  "lastUpdate": "28.10.2026",
   "reservoirs": [
     {
       "id": "1",
@@ -12,15 +12,15 @@
       "redLevel": "84.4",
       "latitude": 8.4029,
       "longitude": 77.1494,
-      "remarks": "4/4 Spillway shutter opened @20 cm each, Outflow for drinking water.",
+      "remarks": "4/4 spillway shutter opened @20cm each, Outflow for drinking water.",
       "data": [
         {
-          "date": "27.10.2026",
-          "waterLevel": "84.26",
+          "date": "28.10.2026",
+          "waterLevel": "84.00",
           "grossStorage": "97.35",
-          "todayStorage": "93.10",
-          "storagePercentage": "95",
-          "outflow": "45.75"
+          "todayStorage": "90.84",
+          "storagePercentage": "93",
+          "outflow": "44.47"
         }
       ]
     },
@@ -35,15 +35,15 @@
       "redLevel": "115.45",
       "latitude": 9.1319,
       "longitude": 76.8494,
-      "remarks": "Outflow for power generation, URL 113.14 m",
+      "remarks": "Outflow for power generation, URL 113.14m",
       "data": [
         {
-          "date": "27.10.2026",
-          "waterLevel": "107.52",
+          "date": "28.10.2026",
+          "waterLevel": "107.74",
           "grossStorage": "504.92",
-          "todayStorage": "330.40",
-          "storagePercentage": "64",
-          "outflow": "19.62"
+          "todayStorage": "334.80",
+          "storagePercentage": "65",
+          "outflow": "17.25"
         }
       ]
     },
@@ -58,10 +58,10 @@
       "redLevel": "",
       "latitude": 9.3372,
       "longitude": 76.9328,
-      "remarks": "5/5 Shutters opened @450 cm each",
+      "remarks": "5/5 shutters opened @ 450cm each",
       "data": [
         {
-          "date": "27.10.2026",
+          "date": "28.10.2026",
           "waterLevel": "29.26",
           "grossStorage": "8.80",
           "todayStorage": "7.97",
@@ -81,15 +81,15 @@
       "redLevel": "41.30",
       "latitude": 9.7194,
       "longitude": 76.8756,
-      "remarks": "1/6 Spillway shutter opened @10 cm each,Outflow for Drinking Water, Outflow for Power generation.",
+      "remarks": "1/6 spillway shutter opened @ 10cm, Outflow for Drinking Water, Outflow for Power generation.",
       "data": [
         {
-          "date": "27.10.2026",
-          "waterLevel": "39.04",
+          "date": "28.10.2026",
+          "waterLevel": "38.96",
           "grossStorage": "37.00",
-          "todayStorage": "26.98",
+          "todayStorage": "26.74",
           "storagePercentage": "69",
-          "outflow": "24.41"
+          "outflow": "17.75"
         }
       ]
     },
@@ -104,10 +104,10 @@
       "redLevel": "",
       "latitude": 10.1667,
       "longitude": 76.5833,
-      "remarks": "2/15 Shutters opened @15 cm each, 1/15 shutter opened @100 cm .",
+      "remarks": "2/15 shutters opened @15cm each, 1/15 shutter opened @100cm .",
       "data": [
         {
-          "date": "27.10.2026",
+          "date": "28.10.2026",
           "waterLevel": "31.00",
           "grossStorage": "169.79",
           "todayStorage": "",
@@ -130,10 +130,10 @@
       "remarks": "",
       "data": [
         {
-          "date": "27.10.2026",
-          "waterLevel": "57.71",
+          "date": "28.10.2026",
+          "waterLevel": "57.73",
           "grossStorage": "18.12",
-          "todayStorage": "12.76",
+          "todayStorage": "12.79",
           "storagePercentage": "68",
           "outflow": "0.00"
         }
@@ -153,10 +153,10 @@
       "remarks": "",
       "data": [
         {
-          "date": "27.10.2026",
-          "waterLevel": "74.18",
+          "date": "28.10.2026",
+          "waterLevel": "74.22",
           "grossStorage": "151.55",
-          "todayStorage": "134.49",
+          "todayStorage": "134.82",
           "storagePercentage": "89",
           "outflow": "0.00"
         }
@@ -173,13 +173,13 @@
       "redLevel": "78.60",
       "latitude": 10.5333,
       "longitude": 76.3667,
-      "remarks": "1/4 Shutter opened @0.5 cm , Outflow for Drinking Water.",
+      "remarks": "1/4 shutter opened @ 0.5cm , Outflow for Drinking Water.",
       "data": [
         {
-          "date": "27.10.2026",
-          "waterLevel": "78.05",
+          "date": "28.10.2026",
+          "waterLevel": "78.06",
           "grossStorage": "94.95",
-          "todayStorage": "78.91",
+          "todayStorage": "79.04",
           "storagePercentage": "83",
           "outflow": "0.88"
         }
@@ -199,12 +199,12 @@
       "remarks": "N op o e a ra le t r io t n le i v s e d ls o n p e re b s y e n o t p , e a r s a t t i h n e g r e ri v is e r n o sl u s i p c i e ll . way and reservoir",
       "data": [
         {
-          "date": "27.10.2026",
-          "waterLevel": "875.35",
+          "date": "28.10.2026",
+          "waterLevel": "875.42",
           "grossStorage": "25.6",
-          "todayStorage": "20.69",
+          "todayStorage": "20.79",
           "storagePercentage": "74",
-          "outflow": "0.73"
+          "outflow": "0.76"
         }
       ]
     },
@@ -219,15 +219,15 @@
       "redLevel": "97.4",
       "latitude": 10.8333,
       "longitude": 76.5833,
-      "remarks": "3 cm /3 Spillway shutter opened @15 cm each, River sluice opened @2",
+      "remarks": "3 2c /3 m spillway shutter opened @ 15cm each, River sluice opened @",
       "data": [
         {
-          "date": "27.10.2026",
-          "waterLevel": "96.22",
+          "date": "28.10.2026",
+          "waterLevel": "96.18",
           "grossStorage": "70.83",
-          "todayStorage": "63.68",
-          "storagePercentage": "90",
-          "outflow": "23.57"
+          "todayStorage": "63.45",
+          "storagePercentage": "89",
+          "outflow": "23.52"
         }
       ]
     },
@@ -245,11 +245,11 @@
       "remarks": "",
       "data": [
         {
-          "date": "27.10.2026",
-          "waterLevel": "152.67",
+          "date": "28.10.2026",
+          "waterLevel": "152.95",
           "grossStorage": "11.33",
-          "todayStorage": "4.01",
-          "storagePercentage": "29",
+          "todayStorage": "4.34",
+          "storagePercentage": "32",
           "outflow": "0.00"
         }
       ]
@@ -268,10 +268,10 @@
       "remarks": "",
       "data": [
         {
-          "date": "27.10.2026",
-          "waterLevel": "196.30",
+          "date": "28.10.2026",
+          "waterLevel": "196.32",
           "grossStorage": "18.4",
-          "todayStorage": "5.43",
+          "todayStorage": "5.45",
           "storagePercentage": "15",
           "outflow": "0.00"
         }
@@ -291,11 +291,11 @@
       "remarks": "Outflow for drinking water, URL - 115.047 m.",
       "data": [
         {
-          "date": "27.10.2026",
-          "waterLevel": "110.43",
+          "date": "28.10.2026",
+          "waterLevel": "110.47",
           "grossStorage": "226.00",
-          "todayStorage": "128.18",
-          "storagePercentage": "56",
+          "todayStorage": "128.85",
+          "storagePercentage": "57",
           "outflow": "1.24"
         }
       ]
@@ -314,10 +314,10 @@
       "remarks": "Outflow for drinking water",
       "data": [
         {
-          "date": "27.10.2026",
-          "waterLevel": "103.18",
+          "date": "28.10.2026",
+          "waterLevel": "103.20",
           "grossStorage": "50.91",
-          "todayStorage": "35.24",
+          "todayStorage": "35.31",
           "storagePercentage": "64",
           "outflow": "0.24"
         }
@@ -337,7 +337,7 @@
       "remarks": "",
       "data": [
         {
-          "date": "27.10.2026",
+          "date": "28.10.2026",
           "waterLevel": "142.72",
           "grossStorage": "13.70",
           "todayStorage": "1.51",
@@ -357,15 +357,15 @@
       "redLevel": "77.3",
       "latitude": 10.7667,
       "longitude": 76.55,
-      "remarks": "1/6 Spillway shutters opened @1 cm",
+      "remarks": "1/6 spillway shutters opened @ 1 cm",
       "data": [
         {
-          "date": "27.10.2026",
-          "waterLevel": "77.13",
+          "date": "28.10.2026",
+          "waterLevel": "77.18",
           "grossStorage": "25.49",
-          "todayStorage": "22.09",
+          "todayStorage": "22.29",
           "storagePercentage": "87",
-          "outflow": "0.23"
+          "outflow": "0.24"
         }
       ]
     },
@@ -383,12 +383,12 @@
       "remarks": "",
       "data": [
         {
-          "date": "27.10.2026",
+          "date": "28.10.2026",
           "waterLevel": "182.50",
           "grossStorage": "",
           "todayStorage": "",
           "storagePercentage": "",
-          "outflow": "12.28"
+          "outflow": "6.80"
         }
       ]
     },
@@ -403,15 +403,15 @@
       "redLevel": "42.70",
       "latitude": 11.6167,
       "longitude": 75.85,
-      "remarks": "4 p / o 4 w e S r p g ilw en a e y r a s t h i u o t n t . ers are fully opened. Outflow for drinking water &",
+      "remarks": "4 p / o 4 w e s r p i g lw e a n y e r s a h ti u o t n t . ers are fully opened. Outflow for drinking water &",
       "data": [
         {
-          "date": "27.10.2026",
-          "waterLevel": "37.57",
+          "date": "28.10.2026",
+          "waterLevel": "37.56",
           "grossStorage": "105.69",
-          "todayStorage": "61.99",
+          "todayStorage": "61.94",
           "storagePercentage": "48",
-          "outflow": "6.94"
+          "outflow": "6.78"
         }
       ]
     },
@@ -426,15 +426,15 @@
       "redLevel": "762.00",
       "latitude": 11.6833,
       "longitude": 76.1167,
-      "remarks": "3/3 Spillway shutter opened @10 cm each, Outflow for drinking water",
+      "remarks": "3/3 spillway shutter opened @10cm each, Outflow for drinking water",
       "data": [
         {
-          "date": "27.10.2026",
-          "waterLevel": "757.15",
+          "date": "28.10.2026",
+          "waterLevel": "757.10",
           "grossStorage": "76.50",
-          "todayStorage": "35.21",
-          "storagePercentage": "43",
-          "outflow": "3.97"
+          "todayStorage": "34.90",
+          "storagePercentage": "42",
+          "outflow": "3.01"
         }
       ]
     },
@@ -449,19 +449,19 @@
       "redLevel": "",
       "latitude": 11.9833,
       "longitude": 75.6,
-      "remarks": "4/16 Shutters opened @50 cm each, 1/16 shutter opened @20 cm.",
+      "remarks": "4/16 shutters opened @ 50cm each, 1/16 shutter opened @ 20cm.",
       "data": [
         {
-          "date": "27.10.2026",
-          "waterLevel": "17.86",
+          "date": "28.10.2026",
+          "waterLevel": "17.59",
           "grossStorage": "49.08",
-          "todayStorage": "3.11",
-          "storagePercentage": "6",
-          "outflow": "37.63"
+          "todayStorage": "2.35",
+          "storagePercentage": "4",
+          "outflow": "39.08"
         }
       ]
     }
   ],
-  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/10/IRR-SITE-20.pdf",
-  "scraped_at": "2026-10-28T17:27:38.620401+05:30"
+  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/10/IRR-SITE-21.pdf",
+  "scraped_at": "2026-10-28T23:26:32.130574+05:30"
 }
