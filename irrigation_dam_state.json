@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03.11.2026",
+  "lastUpdate": "04.11.2026",
   "reservoirs": [
     {
       "id": "1",
@@ -15,12 +15,12 @@
       "remarks": "4/4 spillway shutter opened @5cm each, Outflow for drinking water.",
       "data": [
         {
-          "date": "03.11.2026",
-          "waterLevel": "84.07",
+          "date": "04.11.2026",
+          "waterLevel": "84.09",
           "grossStorage": "97.35",
-          "todayStorage": "91.45",
+          "todayStorage": "91.62",
           "storagePercentage": "94",
-          "outflow": "11.61"
+          "outflow": "11.63"
         }
       ]
     },
@@ -38,10 +38,10 @@
       "remarks": "URL 113.98m",
       "data": [
         {
-          "date": "03.11.2026",
-          "waterLevel": "108.37",
+          "date": "04.11.2026",
+          "waterLevel": "108.45",
           "grossStorage": "504.92",
-          "todayStorage": "347.40",
+          "todayStorage": "349.00",
           "storagePercentage": "68",
           "outflow": "0.00"
         }
@@ -61,7 +61,7 @@
       "remarks": "5/5 shutters opened @450cm each",
       "data": [
         {
-          "date": "03.11.2026",
+          "date": "04.11.2026",
           "waterLevel": "29.26",
           "grossStorage": "8.80",
           "todayStorage": "7.97",
@@ -84,12 +84,12 @@
       "remarks": "1/6 spillway shutter opened @10cm, Outflow for Drinking Water, Outflow for Power generation.",
       "data": [
         {
-          "date": "03.11.2026",
-          "waterLevel": "38.68",
+          "date": "04.11.2026",
+          "waterLevel": "39.04",
           "grossStorage": "37.00",
-          "todayStorage": "25.96",
-          "storagePercentage": "66",
-          "outflow": "17.22"
+          "todayStorage": "26.98",
+          "storagePercentage": "69",
+          "outflow": "18.01"
         }
       ]
     },
@@ -107,8 +107,8 @@
       "remarks": "2/15 shutters opened @15cm each.1/15 shutters opened @100cm.",
       "data": [
         {
-          "date": "03.11.2026",
-          "waterLevel": "32.00",
+          "date": "04.11.2026",
+          "waterLevel": "31.90",
           "grossStorage": "169.79",
           "todayStorage": "",
           "storagePercentage": "",
@@ -130,7 +130,7 @@
       "remarks": "",
       "data": [
         {
-          "date": "03.11.2026",
+          "date": "04.11.2026",
           "waterLevel": "57.77",
           "grossStorage": "18.12",
           "todayStorage": "12.84",
@@ -153,12 +153,12 @@
       "remarks": "",
       "data": [
         {
-          "date": "03.11.2026",
-          "waterLevel": "74.24",
+          "date": "04.11.2026",
+          "waterLevel": "74.17",
           "grossStorage": "151.55",
-          "todayStorage": "134.98",
-          "storagePercentage": "89",
-          "outflow": "5.30"
+          "todayStorage": "134.40",
+          "storagePercentage": "88",
+          "outflow": "6.36"
         }
       ]
     },
@@ -176,7 +176,7 @@
       "remarks": "Outflow for Drinking Water.",
       "data": [
         {
-          "date": "03.11.2026",
+          "date": "04.11.2026",
           "waterLevel": "78.06",
           "grossStorage": "94.95",
           "todayStorage": "79.04",
@@ -199,10 +199,10 @@
       "remarks": "N op o e a ra le t r io t n le i v s e d ls o n p e re b s y e n o t p , e a r s a t t i h n e g r e ri v is e r n o sl u s i p c i e ll . way and reservoir",
       "data": [
         {
-          "date": "03.11.2026",
-          "waterLevel": "875.64",
+          "date": "04.11.2026",
+          "waterLevel": "875.65",
           "grossStorage": "25.6",
-          "todayStorage": "21.15",
+          "todayStorage": "21.17",
           "storagePercentage": "76",
           "outflow": "0.79"
         }
@@ -222,11 +222,11 @@
       "remarks": "River sluice opened @2cm",
       "data": [
         {
-          "date": "03.11.2026",
-          "waterLevel": "96.77",
+          "date": "04.11.2026",
+          "waterLevel": "97.05",
           "grossStorage": "70.83",
-          "todayStorage": "66.75",
-          "storagePercentage": "94",
+          "todayStorage": "68.31",
+          "storagePercentage": "96",
           "outflow": "0.44"
         }
       ]
@@ -245,7 +245,7 @@
       "remarks": "",
       "data": [
         {
-          "date": "03.11.2026",
+          "date": "04.11.2026",
           "waterLevel": "153.53",
           "grossStorage": "11.33",
           "todayStorage": "5.17",
@@ -268,7 +268,7 @@
       "remarks": "",
       "data": [
         {
-          "date": "03.11.2026",
+          "date": "04.11.2026",
           "waterLevel": "196.33",
           "grossStorage": "18.4",
           "todayStorage": "5.47",
@@ -291,10 +291,10 @@
       "remarks": "Outflow for drinking water, URL - 115.06m.",
       "data": [
         {
-          "date": "03.11.2026",
-          "waterLevel": "110.64",
+          "date": "04.11.2026",
+          "waterLevel": "110.66",
           "grossStorage": "226.00",
-          "todayStorage": "131.71",
+          "todayStorage": "132.04",
           "storagePercentage": "58",
           "outflow": "1.24"
         }
@@ -314,10 +314,10 @@
       "remarks": "Outflow for drinking water",
       "data": [
         {
-          "date": "03.11.2026",
-          "waterLevel": "103.25",
+          "date": "04.11.2026",
+          "waterLevel": "103.26",
           "grossStorage": "50.91",
-          "todayStorage": "35.47",
+          "todayStorage": "35.50",
           "storagePercentage": "65",
           "outflow": "0.24"
         }
@@ -337,7 +337,7 @@
       "remarks": "",
       "data": [
         {
-          "date": "03.11.2026",
+          "date": "04.11.2026",
           "waterLevel": "142.72",
           "grossStorage": "13.70",
           "todayStorage": "1.51",
@@ -360,10 +360,10 @@
       "remarks": "1/6 spillway shutters opened @1cm",
       "data": [
         {
-          "date": "03.11.2026",
-          "waterLevel": "77.30",
+          "date": "04.11.2026",
+          "waterLevel": "77.31",
           "grossStorage": "25.49",
-          "todayStorage": "22.75",
+          "todayStorage": "22.79",
           "storagePercentage": "89",
           "outflow": "0.26"
         }
@@ -383,12 +383,12 @@
       "remarks": "",
       "data": [
         {
-          "date": "03.11.2026",
+          "date": "04.11.2026",
           "waterLevel": "183.70",
           "grossStorage": "",
           "todayStorage": "",
           "storagePercentage": "",
-          "outflow": "3.32"
+          "outflow": "2.81"
         }
       ]
     },
@@ -406,11 +406,11 @@
       "remarks": "4 p / o 4 w e s r p i g lw e a n y e r s a h ti u o t n t . ers are fully opened. Outflow for drinking water &",
       "data": [
         {
-          "date": "03.11.2026",
-          "waterLevel": "37.55",
+          "date": "04.11.2026",
+          "waterLevel": "37.59",
           "grossStorage": "105.69",
-          "todayStorage": "61.89",
-          "storagePercentage": "48",
+          "todayStorage": "62.10",
+          "storagePercentage": "49",
           "outflow": "1.74"
         }
       ]
@@ -429,7 +429,7 @@
       "remarks": "3/3 spillway shutters opened @10cm each, Outflow for drinking water",
       "data": [
         {
-          "date": "03.11.2026",
+          "date": "04.11.2026",
           "waterLevel": "757.05",
           "grossStorage": "76.50",
           "todayStorage": "34.60",
@@ -449,19 +449,19 @@
       "redLevel": "",
       "latitude": 11.9833,
       "longitude": 75.6,
-      "remarks": "3/16 shutters opened @50cm each, 1/16 shutter opened @20cm.",
+      "remarks": "2/16 shutters opened @50cm each, 1/16 shutter opened @20cm.",
       "data": [
         {
-          "date": "03.11.2026",
-          "waterLevel": "16.87",
+          "date": "04.11.2026",
+          "waterLevel": "17.30",
           "grossStorage": "49.08",
-          "todayStorage": "1.71",
+          "todayStorage": "1.97",
           "storagePercentage": "3",
-          "outflow": "50.81"
+          "outflow": "19.51"
         }
       ]
     }
   ],
-  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/11/IRR-SITE-2.pdf",
-  "scraped_at": "2026-11-04T06:29:48.410756+05:30"
+  "sourceUrl": "https://sdma.kerala.gov.in/wp-content/uploads/2026/11/IRR-site.pdf",
+  "scraped_at": "2026-11-05T00:43:59.341194+05:30"
 }
